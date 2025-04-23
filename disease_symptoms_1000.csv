@@ -1,0 +1,1001 @@
+Disease,Symptom 1,Symptom 2,Symptom 3,Symptom 4,Symptom 5
+Cancer,Pale skin,Itching,Skin rash,Sweating,
+Heart Disease,Shortness of breath,Dizziness,Swelling,Sore throat,Blurred vision
+Malaria,Chest pain,Fever,Cold hands and feet,,
+Gastritis,Diarrhea,Joint pain,Seizures,Runny nose,
+Hepatitis B,Muscle pain,Mood swings,Pale skin,,
+Epilepsy,Cold hands and feet,Sneezing,Runny nose,,
+Stroke,Skin rash,Dizziness,,,
+Bronchitis,Diarrhea,Joint pain,Vomiting,Cough,Sneezing
+Gastritis,Blurred vision,Headache,Seizures,Sore throat,
+Ulcer,Fatigue,Weight loss,Joint pain,Swelling,Itching
+Hepatitis B,Diarrhea,Muscle pain,Abdominal pain,Headache,
+Hepatitis B,Dizziness,Sore throat,Nausea,,
+Tuberculosis,Sneezing,Blurred vision,Swelling,Seizures,Joint pain
+Epilepsy,Weight loss,Headache,,,
+Hepatitis C,Itching,Seizures,Headache,Weight loss,Shortness of breath
+Arthritis,Sore throat,Joint pain,Muscle pain,,
+Anxiety,Dizziness,Vomiting,,,
+Mumps,Mood swings,Blurred vision,,,
+Influenza,Sore throat,Abdominal pain,Sneezing,,
+Asthma,Abdominal pain,Cold hands and feet,Chest pain,,
+Hypertension,Seizures,Sweating,Vomiting,,
+Arthritis,Sweating,Cold hands and feet,,,
+Influenza,Fever,Headache,Diarrhea,,
+Anemia,Shortness of breath,Muscle pain,Pale skin,,
+Stroke,Sore throat,Skin rash,,,
+Dengue,Weight loss,Abdominal pain,Sweating,,
+Pneumonia,Blurred vision,Headache,,,
+Tuberculosis,Sweating,Mood swings,Blurred vision,,
+COVID-19,Fatigue,Fever,Blurred vision,,
+Anxiety,Headache,Seizures,Nausea,Chest pain,Sore throat
+Depression,Nausea,Pale skin,Mood swings,,
+Cancer,Vomiting,Sweating,Blurred vision,Nausea,Sneezing
+Measles,Skin rash,Blurred vision,Muscle pain,Headache,
+Hepatitis C,Cold hands and feet,Fever,Sore throat,Blurred vision,
+Influenza,Abdominal pain,Muscle pain,,,
+Ulcer,Sweating,Dizziness,,,
+Common Cold,Headache,Blurred vision,Weight loss,,
+Migraine,Mood swings,Nausea,,,
+Asthma,Cold hands and feet,Seizures,,,
+Common Cold,Headache,Mood swings,Sneezing,,
+Epilepsy,Sweating,Cold hands and feet,Itching,Weight loss,Swelling
+Diabetes,Headache,Blurred vision,Sweating,Muscle pain,
+Diabetes,Diarrhea,Headache,,,
+Hepatitis C,Weight loss,Sweating,,,
+Hepatitis B,Dizziness,Itching,Weight loss,,
+COVID-19,Nausea,Weight loss,Runny nose,Abdominal pain,Fever
+Common Cold,Swelling,Chest pain,Nausea,Seizures,Blurred vision
+Influenza,Skin rash,Nausea,Cold hands and feet,,
+Chickenpox,Diarrhea,Sore throat,Seizures,Nausea,
+Ulcer,Cold hands and feet,Diarrhea,Seizures,,
+Gastritis,Runny nose,Cough,Abdominal pain,,
+Dengue,Fever,Joint pain,Abdominal pain,Seizures,
+Epilepsy,Blurred vision,Sneezing,,,
+Bronchitis,Sweating,Diarrhea,Sore throat,Shortness of breath,
+Typhoid,Sore throat,Weight loss,Diarrhea,,
+Dengue,Chest pain,Blurred vision,,,
+Epilepsy,Sneezing,Vomiting,,,
+Anemia,Cough,Swelling,,,
+Cholera,Cough,Runny nose,Nausea,Joint pain,
+Asthma,Seizures,Itching,,,
+Mumps,Runny nose,Nausea,Mood swings,Cold hands and feet,Diarrhea
+Hepatitis C,Dizziness,Itching,,,
+Depression,Fever,Nausea,Diarrhea,Weight loss,
+Hepatitis C,Abdominal pain,Sore throat,,,
+Gastritis,Cold hands and feet,Sore throat,Mood swings,Vomiting,Sneezing
+Influenza,Nausea,Fever,,,
+Measles,Itching,Weight loss,Blurred vision,Dizziness,
+Influenza,Abdominal pain,Cough,Fever,,
+Cancer,Seizures,Vomiting,Swelling,Sweating,
+Stroke,Vomiting,Chest pain,Runny nose,Sweating,
+Arthritis,Swelling,Cold hands and feet,Sore throat,Shortness of breath,
+Hepatitis C,Fatigue,Joint pain,,,
+Dengue,Diarrhea,Joint pain,Pale skin,,
+Dengue,Cough,Swelling,Skin rash,,
+Malaria,Weight loss,Skin rash,Cold hands and feet,Joint pain,
+Gastritis,Vomiting,Fatigue,Mood swings,,
+COVID-19,Pale skin,Sweating,Abdominal pain,Mood swings,Runny nose
+Ulcer,Sweating,Itching,Blurred vision,Nausea,Runny nose
+Measles,Mood swings,Chest pain,Seizures,Headache,Cold hands and feet
+Tuberculosis,Mood swings,Fever,,,
+Anemia,Swelling,Seizures,Vomiting,,
+Ulcer,Sneezing,Cold hands and feet,Sore throat,Fatigue,Nausea
+Malaria,Shortness of breath,Nausea,Runny nose,,
+Hypertension,Fever,Cough,,,
+Chickenpox,Weight loss,Headache,Skin rash,Sore throat,
+Chickenpox,Abdominal pain,Runny nose,,,
+Chickenpox,Fatigue,Diarrhea,Mood swings,Weight loss,Joint pain
+Sinusitis,Seizures,Sweating,Cold hands and feet,,
+Migraine,Skin rash,Chest pain,Cold hands and feet,,
+Ulcer,Sneezing,Itching,Weight loss,Chest pain,Diarrhea
+Bronchitis,Joint pain,Sweating,,,
+Diabetes,Diarrhea,Fever,Cold hands and feet,Chest pain,
+Asthma,Sore throat,Runny nose,Cough,Dizziness,Sneezing
+Hepatitis B,Fatigue,Pale skin,,,
+Cholera,Headache,Joint pain,,,
+Anemia,Sweating,Vomiting,Fever,Blurred vision,
+Epilepsy,Fever,Mood swings,,,
+Pneumonia,Muscle pain,Sneezing,Dizziness,,
+Arthritis,Fatigue,Fever,Weight loss,Seizures,Sweating
+Sinusitis,Sneezing,Mood swings,Muscle pain,,
+Sinusitis,Mood swings,Muscle pain,,,
+Gastritis,Sore throat,Pale skin,Shortness of breath,,
+Typhoid,Cold hands and feet,Swelling,,,
+Anemia,Sore throat,Itching,Skin rash,Vomiting,
+Hepatitis B,Sneezing,Diarrhea,,,
+Cancer,Cough,Chest pain,,,
+Pneumonia,Fever,Swelling,Nausea,,
+Ulcer,Diarrhea,Fever,Blurred vision,,
+Diabetes,Skin rash,Pale skin,Headache,Dizziness,Shortness of breath
+Common Cold,Dizziness,Diarrhea,Itching,,
+Ulcer,Chest pain,Abdominal pain,,,
+Hepatitis C,Fever,Swelling,Fatigue,Abdominal pain,
+Chickenpox,Headache,Chest pain,Sneezing,Diarrhea,Pale skin
+Cholera,Cold hands and feet,Joint pain,Fever,Diarrhea,
+Arthritis,Cold hands and feet,Sneezing,,,
+Influenza,Shortness of breath,Sneezing,Seizures,Fever,
+Mumps,Fever,Vomiting,Swelling,,
+Measles,Pale skin,Blurred vision,Sweating,Diarrhea,Sneezing
+Gastritis,Abdominal pain,Chest pain,Dizziness,Weight loss,
+Cholera,Cough,Itching,Seizures,,
+Typhoid,Weight loss,Sore throat,Shortness of breath,Muscle pain,Vomiting
+Cholera,Cough,Blurred vision,Diarrhea,Weight loss,
+COVID-19,Mood swings,Sweating,Chest pain,Cold hands and feet,Diarrhea
+COVID-19,Cold hands and feet,Seizures,Chest pain,Skin rash,Runny nose
+Common Cold,Swelling,Vomiting,Abdominal pain,Weight loss,Fatigue
+Migraine,Vomiting,Skin rash,Sneezing,Cold hands and feet,
+Arthritis,Sneezing,Skin rash,Nausea,Vomiting,Pale skin
+Malaria,Shortness of breath,Runny nose,,,
+Anxiety,Blurred vision,Itching,Seizures,Vomiting,
+Typhoid,Joint pain,Headache,,,
+Heart Disease,Dizziness,Fatigue,Runny nose,,
+Hepatitis B,Chest pain,Swelling,,,
+COVID-19,Nausea,Swelling,Dizziness,Pale skin,
+Pneumonia,Skin rash,Runny nose,,,
+Ulcer,Chest pain,Fatigue,Itching,Seizures,Shortness of breath
+Anemia,Headache,Fever,,,
+Ulcer,Sore throat,Skin rash,Fatigue,Headache,Dizziness
+Asthma,Itching,Mood swings,,,
+Asthma,Itching,Headache,Dizziness,,
+Bronchitis,Mood swings,Pale skin,Nausea,Shortness of breath,Skin rash
+Arthritis,Pale skin,Shortness of breath,Itching,Sweating,Abdominal pain
+Diabetes,Cough,Swelling,,,
+Diabetes,Sneezing,Joint pain,Blurred vision,Nausea,
+Anxiety,Fatigue,Swelling,Shortness of breath,Cold hands and feet,
+Pneumonia,Blurred vision,Sneezing,Swelling,,
+COVID-19,Weight loss,Blurred vision,,,
+Anemia,Mood swings,Chest pain,Nausea,Weight loss,
+Measles,Vomiting,Mood swings,Muscle pain,,
+Diabetes,Chest pain,Itching,Fatigue,Shortness of breath,Joint pain
+Epilepsy,Joint pain,Sore throat,Dizziness,,
+Sinusitis,Swelling,Fever,Skin rash,,
+Asthma,Skin rash,Fever,,,
+Common Cold,Sneezing,Swelling,Fatigue,Mood swings,Nausea
+Arthritis,Joint pain,Skin rash,Fever,Nausea,Vomiting
+Measles,Pale skin,Seizures,Nausea,Abdominal pain,Sneezing
+Measles,Swelling,Seizures,Nausea,,
+Bronchitis,Cold hands and feet,Nausea,Runny nose,,
+Depression,Nausea,Joint pain,Sore throat,Swelling,Fever
+Hepatitis C,Abdominal pain,Mood swings,Joint pain,Vomiting,Diarrhea
+Heart Disease,Dizziness,Mood swings,Sore throat,Headache,
+Hypertension,Skin rash,Fatigue,Sneezing,Weight loss,Joint pain
+Malaria,Nausea,Runny nose,Itching,,
+Mumps,Fever,Sneezing,Seizures,Fatigue,Shortness of breath
+Hypertension,Muscle pain,Dizziness,Sweating,Headache,Itching
+Heart Disease,Muscle pain,Sneezing,Shortness of breath,Runny nose,Itching
+Gastritis,Weight loss,Cold hands and feet,,,
+Pneumonia,Swelling,Muscle pain,,,
+Malaria,Mood swings,Weight loss,Blurred vision,Muscle pain,
+Common Cold,Seizures,Mood swings,Swelling,Fever,Muscle pain
+Diabetes,Diarrhea,Nausea,,,
+Arthritis,Sweating,Weight loss,Joint pain,Headache,
+Sinusitis,Nausea,Headache,Pale skin,,
+Ulcer,Mood swings,Skin rash,Runny nose,,
+Stroke,Abdominal pain,Seizures,Sweating,Weight loss,
+Sinusitis,Sore throat,Pale skin,Runny nose,,
+Hepatitis C,Skin rash,Cough,Pale skin,Abdominal pain,
+Anxiety,Sweating,Cold hands and feet,Headache,,
+Sinusitis,Sore throat,Nausea,Vomiting,Dizziness,Cold hands and feet
+Asthma,Sweating,Abdominal pain,,,
+Anxiety,Pale skin,Vomiting,,,
+Diabetes,Runny nose,Shortness of breath,Fever,,
+Mumps,Mood swings,Cough,Cold hands and feet,Abdominal pain,
+Diabetes,Itching,Cold hands and feet,Diarrhea,,
+Anxiety,Diarrhea,Headache,,,
+Arthritis,Chest pain,Mood swings,Sore throat,,
+Mumps,Chest pain,Sneezing,Sore throat,Weight loss,Fatigue
+Gastritis,Nausea,Joint pain,Fever,,
+Heart Disease,Seizures,Cough,Sneezing,Blurred vision,
+Arthritis,Shortness of breath,Sneezing,Joint pain,,
+Mumps,Itching,Runny nose,Headache,,
+Asthma,Fever,Muscle pain,Diarrhea,Vomiting,
+Typhoid,Diarrhea,Chest pain,Dizziness,Seizures,
+Measles,Itching,Headache,,,
+Depression,Sweating,Weight loss,Cough,Muscle pain,
+Depression,Muscle pain,Fatigue,Pale skin,,
+Migraine,Sore throat,Blurred vision,,,
+Depression,Muscle pain,Itching,,,
+Hepatitis C,Cold hands and feet,Joint pain,Diarrhea,,
+COVID-19,Mood swings,Chest pain,Sneezing,Shortness of breath,
+Malaria,Headache,Sweating,Swelling,Nausea,
+Measles,Fatigue,Dizziness,Shortness of breath,,
+Dengue,Pale skin,Abdominal pain,Sweating,Itching,Blurred vision
+Chickenpox,Pale skin,Chest pain,,,
+Asthma,Dizziness,Seizures,Pale skin,Skin rash,
+Heart Disease,Mood swings,Runny nose,Cold hands and feet,Seizures,
+Gastritis,Sweating,Cold hands and feet,Pale skin,Blurred vision,Diarrhea
+Arthritis,Runny nose,Sore throat,Seizures,Abdominal pain,
+Migraine,Swelling,Sore throat,Joint pain,Dizziness,
+Hypertension,Seizures,Cough,Swelling,Shortness of breath,
+Diabetes,Dizziness,Weight loss,,,
+Heart Disease,Sweating,Weight loss,,,
+Epilepsy,Runny nose,Blurred vision,Weight loss,Joint pain,
+Mumps,Abdominal pain,Fever,,,
+Tuberculosis,Pale skin,Skin rash,Headache,Itching,Fatigue
+Migraine,Dizziness,Sore throat,Pale skin,,
+Cholera,Dizziness,Sore throat,Skin rash,Muscle pain,Mood swings
+Influenza,Cough,Itching,Fatigue,Cold hands and feet,Seizures
+Sinusitis,Seizures,Fatigue,Chest pain,Vomiting,Fever
+Bronchitis,Skin rash,Cough,,,
+Ulcer,Dizziness,Fatigue,Skin rash,,
+Hepatitis B,Joint pain,Cold hands and feet,Sore throat,Muscle pain,
+Epilepsy,Fever,Vomiting,Mood swings,Sweating,Blurred vision
+Asthma,Cold hands and feet,Blurred vision,Abdominal pain,Itching,Seizures
+Asthma,Diarrhea,Mood swings,,,
+Common Cold,Muscle pain,Runny nose,,,
+Tuberculosis,Itching,Mood swings,Swelling,,
+Anemia,Sore throat,Swelling,Fatigue,Nausea,
+Chickenpox,Nausea,Headache,,,
+Bronchitis,Blurred vision,Chest pain,Sneezing,Diarrhea,Pale skin
+Anxiety,Fever,Fatigue,,,
+Hypertension,Pale skin,Vomiting,Cold hands and feet,Chest pain,Runny nose
+Bronchitis,Cough,Swelling,Shortness of breath,Chest pain,
+Arthritis,Joint pain,Vomiting,Diarrhea,,
+Heart Disease,Chest pain,Nausea,Abdominal pain,Swelling,
+Influenza,Pale skin,Joint pain,,,
+Bronchitis,Shortness of breath,Skin rash,Seizures,Runny nose,Joint pain
+Diabetes,Blurred vision,Joint pain,Mood swings,,
+Arthritis,Seizures,Sore throat,Fever,,
+Measles,Fatigue,Abdominal pain,Headache,Nausea,Shortness of breath
+Asthma,Blurred vision,Muscle pain,Headache,Pale skin,Itching
+Cancer,Itching,Skin rash,Seizures,Abdominal pain,
+Ulcer,Mood swings,Sneezing,Diarrhea,Shortness of breath,Dizziness
+Bronchitis,Blurred vision,Fever,Sneezing,Joint pain,Weight loss
+Stroke,Weight loss,Joint pain,Sore throat,Abdominal pain,Itching
+Epilepsy,Sore throat,Pale skin,Mood swings,,
+Influenza,Skin rash,Cold hands and feet,Shortness of breath,Sweating,Blurred vision
+Sinusitis,Shortness of breath,Blurred vision,Nausea,Itching,Fever
+Anemia,Swelling,Skin rash,,,
+Typhoid,Sneezing,Cough,Itching,Fever,
+Asthma,Cough,Skin rash,Dizziness,Fatigue,
+Mumps,Diarrhea,Shortness of breath,Skin rash,Sore throat,Sneezing
+Asthma,Cough,Chest pain,Fever,,
+COVID-19,Headache,Sneezing,Vomiting,,
+Mumps,Blurred vision,Seizures,Cough,Shortness of breath,
+Measles,Diarrhea,Nausea,,,
+COVID-19,Dizziness,Nausea,,,
+Diabetes,Swelling,Vomiting,,,
+Heart Disease,Sweating,Blurred vision,Itching,,
+Pneumonia,Chest pain,Fatigue,Headache,,
+Common Cold,Headache,Mood swings,Cough,Fever,
+Migraine,Fever,Cough,Swelling,Sore throat,Itching
+Common Cold,Dizziness,Muscle pain,Joint pain,,
+Anxiety,Vomiting,Mood swings,,,
+Malaria,Sore throat,Dizziness,,,
+Common Cold,Weight loss,Mood swings,Diarrhea,,
+Tuberculosis,Weight loss,Skin rash,Fever,Seizures,Abdominal pain
+Dengue,Swelling,Cough,,,
+Epilepsy,Mood swings,Joint pain,Fever,Skin rash,
+Chickenpox,Itching,Sore throat,,,
+Influenza,Seizures,Blurred vision,,,
+Depression,Headache,Abdominal pain,,,
+Mumps,Fatigue,Headache,,,
+Influenza,Mood swings,Fever,Sweating,Joint pain,Swelling
+Chickenpox,Itching,Sweating,Vomiting,,
+Common Cold,Skin rash,Headache,Swelling,Itching,
+Dengue,Mood swings,Fever,Joint pain,,
+Dengue,Blurred vision,Fatigue,Chest pain,Skin rash,
+COVID-19,Headache,Joint pain,Mood swings,Itching,
+Cancer,Muscle pain,Pale skin,Mood swings,,
+Dengue,Mood swings,Abdominal pain,Pale skin,Headache,Blurred vision
+Hepatitis C,Sore throat,Blurred vision,Sweating,Cough,
+Bronchitis,Seizures,Pale skin,Headache,,
+Ulcer,Abdominal pain,Shortness of breath,,,
+Heart Disease,Chest pain,Joint pain,Weight loss,Diarrhea,Cough
+Migraine,Skin rash,Muscle pain,,,
+Anemia,Pale skin,Headache,,,
+Migraine,Mood swings,Runny nose,Dizziness,Fatigue,Abdominal pain
+Stroke,Cough,Sweating,Pale skin,,
+Heart Disease,Shortness of breath,Headache,Sneezing,,
+COVID-19,Fever,Sweating,,,
+Epilepsy,Cough,Mood swings,Joint pain,Shortness of breath,
+Chickenpox,Joint pain,Fatigue,Sore throat,Itching,Weight loss
+Hepatitis B,Vomiting,Mood swings,Swelling,,
+Typhoid,Sneezing,Cough,Runny nose,Itching,
+Typhoid,Itching,Muscle pain,,,
+Malaria,Fever,Cough,,,
+Migraine,Seizures,Sore throat,Runny nose,Chest pain,Sneezing
+Hypertension,Abdominal pain,Sneezing,Mood swings,Joint pain,
+Tuberculosis,Shortness of breath,Weight loss,,,
+Heart Disease,Skin rash,Dizziness,,,
+Diabetes,Fatigue,Shortness of breath,,,
+Epilepsy,Vomiting,Weight loss,Fever,Mood swings,Diarrhea
+Heart Disease,Chest pain,Cough,Headache,Nausea,
+Heart Disease,Sweating,Seizures,Fever,Dizziness,
+Hypertension,Swelling,Cough,Vomiting,Fever,
+COVID-19,Mood swings,Blurred vision,,,
+Cholera,Swelling,Muscle pain,Nausea,Fever,
+Hepatitis B,Skin rash,Swelling,Dizziness,Joint pain,Pale skin
+Cholera,Skin rash,Pale skin,Shortness of breath,,
+Asthma,Vomiting,Cough,,,
+Hepatitis B,Runny nose,Swelling,,,
+Mumps,Muscle pain,Cough,,,
+Typhoid,Seizures,Runny nose,Cold hands and feet,Mood swings,Weight loss
+Mumps,Abdominal pain,Runny nose,,,
+Bronchitis,Dizziness,Seizures,Chest pain,Runny nose,
+Common Cold,Swelling,Pale skin,Seizures,Sneezing,Joint pain
+Hepatitis C,Sweating,Runny nose,Joint pain,Shortness of breath,Pale skin
+Diabetes,Muscle pain,Skin rash,Fever,,
+Common Cold,Nausea,Pale skin,Muscle pain,,
+Asthma,Sore throat,Skin rash,Dizziness,Nausea,
+Stroke,Chest pain,Fever,Runny nose,Sweating,Shortness of breath
+Heart Disease,Dizziness,Sneezing,Joint pain,Blurred vision,
+Sinusitis,Weight loss,Sneezing,Chest pain,,
+Epilepsy,Sore throat,Diarrhea,Seizures,,
+Anemia,Sneezing,Fatigue,Mood swings,,
+Tuberculosis,Swelling,Cough,Runny nose,Abdominal pain,
+Cholera,Vomiting,Blurred vision,Sore throat,Sneezing,
+COVID-19,Skin rash,Abdominal pain,Cold hands and feet,,
+Pneumonia,Cough,Blurred vision,Dizziness,Runny nose,Chest pain
+Measles,Nausea,Itching,Pale skin,,
+Measles,Headache,Seizures,Chest pain,Runny nose,Pale skin
+Chickenpox,Itching,Fever,,,
+Mumps,Dizziness,Diarrhea,Blurred vision,Sore throat,Cough
+Cholera,Sore throat,Shortness of breath,Mood swings,Pale skin,
+Pneumonia,Sneezing,Seizures,Runny nose,Skin rash,
+Asthma,Fatigue,Seizures,Chest pain,Nausea,
+Influenza,Sweating,Sore throat,Diarrhea,Fatigue,
+Hepatitis B,Headache,Blurred vision,Runny nose,Weight loss,
+Sinusitis,Joint pain,Weight loss,Vomiting,,
+Gastritis,Seizures,Skin rash,Fever,Sneezing,Mood swings
+Chickenpox,Sore throat,Sweating,,,
+Cancer,Fatigue,Weight loss,Chest pain,Muscle pain,
+Diabetes,Dizziness,Blurred vision,Joint pain,,
+Chickenpox,Blurred vision,Fatigue,Dizziness,,
+Asthma,Sweating,Blurred vision,Seizures,Headache,Swelling
+Stroke,Blurred vision,Diarrhea,Fatigue,,
+Hepatitis B,Fatigue,Muscle pain,Chest pain,,
+COVID-19,Cold hands and feet,Pale skin,,,
+Cholera,Sweating,Shortness of breath,Diarrhea,Nausea,
+Arthritis,Fatigue,Fever,Sweating,,
+Hepatitis C,Runny nose,Joint pain,,,
+Anemia,Skin rash,Muscle pain,Fever,,
+Pneumonia,Cough,Joint pain,Vomiting,Sweating,
+Chickenpox,Fever,Sneezing,Mood swings,Shortness of breath,Abdominal pain
+Chickenpox,Weight loss,Cold hands and feet,Itching,,
+Migraine,Cough,Skin rash,,,
+Gastritis,Runny nose,Weight loss,Mood swings,Sweating,
+Hepatitis C,Fatigue,Sweating,,,
+Ulcer,Pale skin,Runny nose,,,
+Diabetes,Dizziness,Sneezing,Weight loss,,
+Migraine,Abdominal pain,Joint pain,,,
+Common Cold,Seizures,Sweating,,,
+Cholera,Skin rash,Cold hands and feet,Muscle pain,,
+Mumps,Abdominal pain,Shortness of breath,Fever,Nausea,Cough
+Epilepsy,Nausea,Sweating,,,
+Hepatitis C,Nausea,Weight loss,,,
+Stroke,Skin rash,Chest pain,Abdominal pain,,
+Gastritis,Headache,Swelling,Vomiting,Joint pain,
+Anxiety,Seizures,Joint pain,,,
+Stroke,Joint pain,Pale skin,Diarrhea,Sweating,
+Diabetes,Sneezing,Pale skin,Fatigue,Dizziness,Diarrhea
+Epilepsy,Skin rash,Diarrhea,,,
+Anemia,Sneezing,Seizures,,,
+Bronchitis,Dizziness,Cough,,,
+Tuberculosis,Shortness of breath,Cough,Cold hands and feet,,
+Chickenpox,Headache,Dizziness,Sweating,,
+Cancer,Sneezing,Muscle pain,Headache,Abdominal pain,Weight loss
+Malaria,Runny nose,Fever,Shortness of breath,Weight loss,Sweating
+Hepatitis B,Sweating,Vomiting,Dizziness,Sneezing,Headache
+Anxiety,Fatigue,Pale skin,Headache,Swelling,
+Bronchitis,Nausea,Fatigue,Joint pain,,
+Bronchitis,Cold hands and feet,Shortness of breath,,,
+Pneumonia,Itching,Runny nose,,,
+Cholera,Chest pain,Mood swings,Dizziness,,
+Cholera,Dizziness,Joint pain,Chest pain,Weight loss,
+Anemia,Shortness of breath,Vomiting,Pale skin,,
+Cholera,Diarrhea,Itching,Pale skin,Abdominal pain,
+Influenza,Seizures,Pale skin,Fatigue,Sneezing,Blurred vision
+Influenza,Sweating,Pale skin,Blurred vision,,
+Cholera,Sneezing,Vomiting,Seizures,Weight loss,Headache
+Hypertension,Sneezing,Diarrhea,Sweating,Cough,Mood swings
+Common Cold,Sore throat,Chest pain,Vomiting,Itching,Muscle pain
+Ulcer,Cough,Diarrhea,Sneezing,Pale skin,
+Diabetes,Weight loss,Skin rash,,,
+Diabetes,Skin rash,Runny nose,Muscle pain,,
+Epilepsy,Headache,Mood swings,,,
+Heart Disease,Pale skin,Headache,Fatigue,,
+Typhoid,Mood swings,Blurred vision,,,
+Pneumonia,Dizziness,Fatigue,Seizures,Swelling,
+Hepatitis C,Skin rash,Abdominal pain,,,
+Anxiety,Nausea,Sore throat,Swelling,Muscle pain,Seizures
+Migraine,Sweating,Sneezing,Joint pain,Muscle pain,Shortness of breath
+Measles,Itching,Headache,Diarrhea,Muscle pain,
+Bronchitis,Swelling,Runny nose,Mood swings,,
+Bronchitis,Mood swings,Headache,,,
+COVID-19,Mood swings,Runny nose,,,
+Common Cold,Skin rash,Nausea,Vomiting,Sweating,Chest pain
+Tuberculosis,Pale skin,Cold hands and feet,Runny nose,Dizziness,Chest pain
+Stroke,Fatigue,Seizures,Weight loss,Abdominal pain,Nausea
+Pneumonia,Abdominal pain,Muscle pain,Runny nose,,
+Bronchitis,Sore throat,Sweating,Abdominal pain,,
+Influenza,Cough,Weight loss,Skin rash,,
+Stroke,Chest pain,Diarrhea,Mood swings,Dizziness,Pale skin
+Malaria,Itching,Fatigue,Pale skin,Shortness of breath,
+COVID-19,Muscle pain,Blurred vision,Cough,Joint pain,
+Influenza,Vomiting,Fatigue,,,
+Hepatitis B,Chest pain,Weight loss,,,
+Sinusitis,Swelling,Pale skin,Diarrhea,Headache,Nausea
+Influenza,Sweating,Sore throat,Skin rash,Fatigue,
+Gastritis,Abdominal pain,Shortness of breath,,,
+Measles,Fatigue,Pale skin,Swelling,Vomiting,Sweating
+Dengue,Diarrhea,Sneezing,Blurred vision,Skin rash,Dizziness
+Anxiety,Seizures,Joint pain,,,
+Hepatitis C,Pale skin,Fever,Dizziness,Sore throat,
+Heart Disease,Diarrhea,Blurred vision,Shortness of breath,Sore throat,Fatigue
+Stroke,Headache,Mood swings,Chest pain,,
+Depression,Runny nose,Swelling,Vomiting,Mood swings,Fatigue
+Cancer,Sneezing,Blurred vision,Dizziness,Nausea,Joint pain
+Anxiety,Runny nose,Skin rash,,,
+Arthritis,Fever,Skin rash,Cold hands and feet,Cough,
+Stroke,Runny nose,Shortness of breath,Vomiting,,
+Sinusitis,Mood swings,Sore throat,Vomiting,,
+Migraine,Sore throat,Sneezing,,,
+Hepatitis B,Chest pain,Swelling,,,
+COVID-19,Fever,Sweating,,,
+Migraine,Cough,Nausea,,,
+Pneumonia,Seizures,Swelling,Vomiting,,
+Anemia,Dizziness,Cold hands and feet,,,
+Hepatitis B,Fever,Fatigue,Pale skin,Weight loss,
+Depression,Muscle pain,Runny nose,Chest pain,Pale skin,
+Bronchitis,Abdominal pain,Sweating,,,
+Mumps,Weight loss,Skin rash,Sweating,Headache,Shortness of breath
+Anemia,Sweating,Abdominal pain,Sneezing,Headache,Seizures
+Depression,Fatigue,Cold hands and feet,Chest pain,Cough,Swelling
+Cancer,Runny nose,Abdominal pain,Diarrhea,Fatigue,Shortness of breath
+Hepatitis B,Joint pain,Muscle pain,Itching,,
+Arthritis,Cough,Fatigue,Joint pain,,
+Influenza,Shortness of breath,Itching,,,
+Common Cold,Diarrhea,Itching,Cold hands and feet,,
+Anemia,Blurred vision,Muscle pain,Dizziness,Sore throat,Vomiting
+Diabetes,Runny nose,Abdominal pain,Blurred vision,Chest pain,
+Hepatitis C,Sweating,Blurred vision,Swelling,Pale skin,
+Chickenpox,Weight loss,Sneezing,,,
+Sinusitis,Sneezing,Pale skin,,,
+Cancer,Seizures,Abdominal pain,Diarrhea,Runny nose,Chest pain
+Anxiety,Chest pain,Abdominal pain,Cough,Fever,
+Cholera,Itching,Sneezing,,,
+Hepatitis C,Skin rash,Vomiting,,,
+Measles,Vomiting,Itching,,,
+Cholera,Shortness of breath,Swelling,,,
+Cholera,Blurred vision,Seizures,Vomiting,Dizziness,
+Stroke,Cold hands and feet,Headache,Fatigue,Swelling,Sweating
+Typhoid,Nausea,Cough,Swelling,Sweating,Mood swings
+Influenza,Swelling,Abdominal pain,Blurred vision,Fever,Cold hands and feet
+Cholera,Abdominal pain,Diarrhea,Joint pain,Dizziness,Shortness of breath
+Cancer,Skin rash,Runny nose,Fever,Itching,
+Hepatitis C,Shortness of breath,Abdominal pain,Sore throat,Skin rash,Pale skin
+Pneumonia,Sweating,Fatigue,Mood swings,Diarrhea,Muscle pain
+Pneumonia,Seizures,Dizziness,,,
+Typhoid,Skin rash,Dizziness,,,
+Cancer,Runny nose,Seizures,,,
+Gastritis,Dizziness,Sneezing,Blurred vision,Runny nose,
+Arthritis,Muscle pain,Blurred vision,Cough,,
+Common Cold,Mood swings,Dizziness,Abdominal pain,Sneezing,Sweating
+Depression,Diarrhea,Weight loss,Sweating,Chest pain,Muscle pain
+Hepatitis B,Cough,Headache,Nausea,,
+Ulcer,Dizziness,Skin rash,Mood swings,Swelling,
+Stroke,Nausea,Runny nose,,,
+Ulcer,Swelling,Blurred vision,Runny nose,Diarrhea,Cough
+Influenza,Fever,Fatigue,,,
+Sinusitis,Vomiting,Blurred vision,Pale skin,Runny nose,Sneezing
+Tuberculosis,Headache,Chest pain,Blurred vision,,
+Anemia,Chest pain,Diarrhea,Muscle pain,Cold hands and feet,Vomiting
+Influenza,Shortness of breath,Sore throat,Blurred vision,Seizures,Itching
+Chickenpox,Sweating,Dizziness,,,
+Hepatitis B,Dizziness,Fatigue,Abdominal pain,Sneezing,
+COVID-19,Joint pain,Sore throat,Fever,Skin rash,Fatigue
+Ulcer,Sore throat,Swelling,Dizziness,Vomiting,
+Bronchitis,Skin rash,Itching,Sweating,Mood swings,Joint pain
+Cholera,Fever,Muscle pain,Runny nose,Swelling,Seizures
+Cancer,Nausea,Headache,,,
+Measles,Sore throat,Diarrhea,,,
+Ulcer,Swelling,Pale skin,Muscle pain,Fatigue,
+Hypertension,Dizziness,Headache,Itching,Mood swings,Fatigue
+Measles,Cough,Pale skin,Runny nose,Joint pain,
+Chickenpox,Headache,Joint pain,Fever,Sore throat,
+Cholera,Nausea,Mood swings,Weight loss,,
+Arthritis,Muscle pain,Fever,Nausea,,
+Influenza,Nausea,Itching,Abdominal pain,,
+Influenza,Diarrhea,Headache,Sore throat,,
+Typhoid,Swelling,Weight loss,,,
+Sinusitis,Runny nose,Weight loss,Headache,Joint pain,
+Pneumonia,Shortness of breath,Runny nose,Cough,Pale skin,
+Cancer,Muscle pain,Mood swings,Swelling,Sore throat,
+Sinusitis,Fever,Cough,,,
+Cholera,Dizziness,Fever,,,
+Gastritis,Cold hands and feet,Diarrhea,,,
+Stroke,Blurred vision,Fatigue,Nausea,Fever,
+Heart Disease,Fever,Cold hands and feet,,,
+Ulcer,Chest pain,Sore throat,Fever,Seizures,
+Malaria,Chest pain,Joint pain,Weight loss,Abdominal pain,Vomiting
+Influenza,Headache,Vomiting,,,
+Measles,Abdominal pain,Swelling,,,
+Migraine,Sore throat,Sweating,Runny nose,,
+Hepatitis C,Sneezing,Blurred vision,Itching,Pale skin,
+Measles,Pale skin,Runny nose,,,
+Bronchitis,Cough,Headache,Vomiting,,
+Mumps,Vomiting,Fatigue,Sore throat,Sneezing,
+COVID-19,Seizures,Headache,Cough,,
+Influenza,Mood swings,Swelling,Dizziness,Abdominal pain,Itching
+Bronchitis,Blurred vision,Seizures,,,
+Bronchitis,Pale skin,Dizziness,,,
+Measles,Seizures,Headache,,,
+Hepatitis B,Chest pain,Diarrhea,,,
+COVID-19,Cough,Chest pain,Muscle pain,Joint pain,Weight loss
+Cholera,Shortness of breath,Skin rash,Vomiting,Pale skin,
+COVID-19,Fatigue,Sneezing,Chest pain,,
+Chickenpox,Headache,Diarrhea,,,
+Malaria,Abdominal pain,Pale skin,Muscle pain,Dizziness,
+Tuberculosis,Fever,Nausea,Cough,Shortness of breath,Seizures
+Tuberculosis,Itching,Headache,Runny nose,Muscle pain,Weight loss
+Depression,Weight loss,Swelling,Seizures,Shortness of breath,Blurred vision
+Typhoid,Cold hands and feet,Sore throat,Nausea,Runny nose,Shortness of breath
+Gastritis,Abdominal pain,Sore throat,Diarrhea,Shortness of breath,
+Typhoid,Vomiting,Shortness of breath,Skin rash,Fatigue,Mood swings
+Stroke,Fever,Pale skin,,,
+Dengue,Blurred vision,Joint pain,,,
+Common Cold,Blurred vision,Nausea,Chest pain,Sore throat,
+Heart Disease,Abdominal pain,Mood swings,Seizures,,
+Common Cold,Mood swings,Cold hands and feet,,,
+Gastritis,Vomiting,Blurred vision,Joint pain,Sneezing,Chest pain
+Heart Disease,Chest pain,Sneezing,Fatigue,Mood swings,Runny nose
+Stroke,Dizziness,Vomiting,Shortness of breath,,
+Tuberculosis,Sweating,Shortness of breath,Runny nose,Seizures,
+Hepatitis C,Itching,Vomiting,Diarrhea,Headache,
+Ulcer,Nausea,Fever,Blurred vision,,
+Migraine,Fever,Skin rash,Nausea,,
+Anemia,Cold hands and feet,Mood swings,Shortness of breath,Swelling,Blurred vision
+Heart Disease,Muscle pain,Fatigue,Blurred vision,Weight loss,
+Common Cold,Joint pain,Diarrhea,Cough,Weight loss,
+Hepatitis C,Blurred vision,Sweating,Chest pain,Nausea,Skin rash
+Typhoid,Vomiting,Seizures,Fatigue,Nausea,Cold hands and feet
+Bronchitis,Abdominal pain,Mood swings,Fatigue,,
+Epilepsy,Shortness of breath,Dizziness,Chest pain,Nausea,
+Malaria,Shortness of breath,Fatigue,Muscle pain,Diarrhea,Nausea
+COVID-19,Headache,Shortness of breath,Weight loss,Abdominal pain,
+Hepatitis C,Nausea,Shortness of breath,Fatigue,Skin rash,
+Cholera,Cough,Headache,Swelling,Fatigue,
+Depression,Sweating,Sore throat,Skin rash,,
+Hypertension,Itching,Dizziness,Pale skin,,
+Common Cold,Abdominal pain,Pale skin,Vomiting,,
+Hypertension,Nausea,Pale skin,Swelling,Vomiting,Dizziness
+Diabetes,Vomiting,Abdominal pain,Skin rash,Sweating,
+Anemia,Fever,Dizziness,Blurred vision,Muscle pain,
+Bronchitis,Muscle pain,Vomiting,Joint pain,Abdominal pain,Itching
+Mumps,Itching,Muscle pain,Diarrhea,,
+Anxiety,Joint pain,Itching,Chest pain,Sweating,Headache
+Hepatitis B,Runny nose,Weight loss,Skin rash,Fatigue,Seizures
+Asthma,Skin rash,Shortness of breath,Abdominal pain,Swelling,Nausea
+Pneumonia,Weight loss,Abdominal pain,Swelling,,
+Migraine,Swelling,Sneezing,,,
+Migraine,Cough,Shortness of breath,Sore throat,,
+Diabetes,Sweating,Sneezing,Chest pain,,
+COVID-19,Fatigue,Vomiting,Headache,,
+Asthma,Vomiting,Itching,Blurred vision,Chest pain,Seizures
+Depression,Swelling,Dizziness,Skin rash,Seizures,Muscle pain
+Diabetes,Abdominal pain,Fatigue,Skin rash,,
+Hypertension,Skin rash,Headache,Seizures,,
+Cholera,Muscle pain,Sore throat,,,
+Malaria,Blurred vision,Dizziness,Sneezing,,
+Migraine,Cold hands and feet,Blurred vision,Seizures,Fatigue,Sneezing
+Cholera,Vomiting,Nausea,,,
+Influenza,Headache,Shortness of breath,Vomiting,,
+Mumps,Dizziness,Fever,Cough,Sneezing,
+Common Cold,Mood swings,Skin rash,Dizziness,,
+Hepatitis C,Vomiting,Muscle pain,,,
+Cancer,Cough,Weight loss,Nausea,Skin rash,
+Cholera,Sore throat,Itching,Cold hands and feet,,
+Tuberculosis,Blurred vision,Skin rash,Runny nose,Swelling,Diarrhea
+Cancer,Cough,Runny nose,Pale skin,Sneezing,
+Epilepsy,Headache,Nausea,Sweating,Runny nose,
+Heart Disease,Itching,Runny nose,Shortness of breath,Sore throat,
+Common Cold,Itching,Headache,Vomiting,Mood swings,
+Chickenpox,Blurred vision,Swelling,,,
+Cholera,Fever,Vomiting,Diarrhea,Cough,Weight loss
+Measles,Sneezing,Cough,Sore throat,,
+Chickenpox,Sweating,Cough,Vomiting,Nausea,
+Sinusitis,Mood swings,Muscle pain,Itching,Cough,Dizziness
+Sinusitis,Weight loss,Sneezing,Fever,Headache,
+Gastritis,Cough,Runny nose,Vomiting,,
+Anxiety,Pale skin,Nausea,,,
+Arthritis,Seizures,Headache,Chest pain,Joint pain,
+Chickenpox,Fever,Shortness of breath,,,
+Hepatitis C,Nausea,Sore throat,Dizziness,Weight loss,Muscle pain
+Ulcer,Vomiting,Headache,Sore throat,Shortness of breath,Muscle pain
+Hypertension,Muscle pain,Weight loss,Sore throat,Swelling,Sneezing
+Sinusitis,Abdominal pain,Cough,Blurred vision,Pale skin,
+Tuberculosis,Cold hands and feet,Headache,,,
+Anemia,Itching,Skin rash,Diarrhea,Seizures,
+Typhoid,Shortness of breath,Cold hands and feet,,,
+Mumps,Weight loss,Sneezing,Cough,Abdominal pain,Runny nose
+Bronchitis,Nausea,Pale skin,Blurred vision,Joint pain,Fatigue
+Migraine,Abdominal pain,Dizziness,Joint pain,Weight loss,Mood swings
+Malaria,Cold hands and feet,Cough,,,
+Hepatitis C,Sneezing,Chest pain,Weight loss,Headache,
+Typhoid,Sore throat,Headache,Nausea,Seizures,
+Diabetes,Headache,Fever,,,
+Anemia,Cold hands and feet,Joint pain,,,
+Influenza,Headache,Diarrhea,,,
+Measles,Pale skin,Abdominal pain,Mood swings,Muscle pain,
+Arthritis,Seizures,Skin rash,Joint pain,Sneezing,Pale skin
+Pneumonia,Muscle pain,Weight loss,Pale skin,,
+Bronchitis,Sweating,Muscle pain,,,
+Anxiety,Shortness of breath,Swelling,Sore throat,,
+Malaria,Dizziness,Joint pain,Sweating,,
+Anemia,Mood swings,Weight loss,Swelling,,
+Dengue,Cold hands and feet,Pale skin,Fever,Chest pain,Vomiting
+Typhoid,Vomiting,Blurred vision,Diarrhea,,
+Dengue,Mood swings,Swelling,Cough,Cold hands and feet,Pale skin
+Stroke,Sweating,Runny nose,Seizures,Chest pain,Fatigue
+Mumps,Blurred vision,Fatigue,,,
+Dengue,Sneezing,Shortness of breath,,,
+Gastritis,Headache,Sneezing,Shortness of breath,Blurred vision,Cold hands and feet
+Diabetes,Runny nose,Swelling,Pale skin,,
+Hypertension,Sneezing,Runny nose,,,
+Depression,Swelling,Pale skin,,,
+Depression,Sore throat,Sweating,Fever,,
+Influenza,Headache,Seizures,Sweating,Cough,
+Cholera,Seizures,Chest pain,Swelling,,
+Anemia,Dizziness,Fatigue,,,
+Epilepsy,Muscle pain,Fever,,,
+Migraine,Runny nose,Itching,,,
+Malaria,Fatigue,Weight loss,Joint pain,,
+Mumps,Runny nose,Blurred vision,Cough,,
+Mumps,Weight loss,Sweating,Itching,,
+Hypertension,Sneezing,Weight loss,,,
+Gastritis,Mood swings,Blurred vision,Cold hands and feet,Pale skin,
+Malaria,Blurred vision,Fever,,,
+Hepatitis C,Seizures,Blurred vision,Sore throat,Cold hands and feet,
+Mumps,Cough,Fever,Muscle pain,Skin rash,Sore throat
+Stroke,Diarrhea,Sore throat,Swelling,Sweating,
+Depression,Shortness of breath,Seizures,Nausea,Cough,Headache
+Common Cold,Itching,Sore throat,Weight loss,,
+Heart Disease,Blurred vision,Runny nose,Nausea,Seizures,
+Anemia,Chest pain,Diarrhea,Sore throat,Vomiting,
+Influenza,Weight loss,Dizziness,Muscle pain,Fatigue,
+Malaria,Skin rash,Nausea,Muscle pain,Blurred vision,Joint pain
+Typhoid,Diarrhea,Fever,,,
+Malaria,Muscle pain,Diarrhea,Sore throat,Headache,Runny nose
+Diabetes,Cold hands and feet,Skin rash,Runny nose,Diarrhea,Abdominal pain
+Mumps,Itching,Headache,Skin rash,,
+Arthritis,Blurred vision,Weight loss,Pale skin,Sweating,
+Mumps,Fatigue,Muscle pain,Blurred vision,Sneezing,
+COVID-19,Weight loss,Sweating,,,
+Anemia,Chest pain,Sneezing,,,
+Common Cold,Fatigue,Shortness of breath,,,
+Diabetes,Sweating,Vomiting,Fever,Fatigue,Blurred vision
+Malaria,Swelling,Abdominal pain,Itching,Vomiting,Seizures
+COVID-19,Dizziness,Diarrhea,Muscle pain,Sore throat,
+Gastritis,Chest pain,Pale skin,,,
+Dengue,Fatigue,Muscle pain,Runny nose,,
+Migraine,Diarrhea,Blurred vision,Chest pain,Fever,
+Anxiety,Skin rash,Nausea,,,
+Heart Disease,Fatigue,Diarrhea,Itching,Sweating,Weight loss
+Chickenpox,Cold hands and feet,Skin rash,Pale skin,Runny nose,
+Cholera,Abdominal pain,Cough,Vomiting,Blurred vision,Fatigue
+Cancer,Seizures,Shortness of breath,Sneezing,Itching,Abdominal pain
+Hepatitis B,Sneezing,Mood swings,Joint pain,,
+Influenza,Mood swings,Swelling,Muscle pain,Cough,
+Asthma,Fever,Skin rash,Sweating,Chest pain,Pale skin
+Bronchitis,Skin rash,Muscle pain,Sweating,,
+Arthritis,Nausea,Joint pain,Sneezing,Vomiting,
+Anemia,Vomiting,Mood swings,Nausea,,
+Bronchitis,Abdominal pain,Cough,,,
+Bronchitis,Cold hands and feet,Sore throat,Blurred vision,,
+Asthma,Weight loss,Seizures,Sweating,Fatigue,Nausea
+Measles,Fever,Swelling,Weight loss,,
+Arthritis,Chest pain,Headache,Swelling,,
+Common Cold,Itching,Sore throat,Mood swings,,
+Tuberculosis,Cold hands and feet,Cough,Runny nose,Fatigue,Sneezing
+Asthma,Diarrhea,Nausea,Joint pain,,
+Malaria,Headache,Shortness of breath,,,
+Asthma,Chest pain,Skin rash,,,
+Heart Disease,Sneezing,Fatigue,Diarrhea,Itching,Fever
+Anxiety,Dizziness,Fatigue,Seizures,Cold hands and feet,Itching
+Hepatitis C,Shortness of breath,Fever,,,
+Epilepsy,Shortness of breath,Nausea,Chest pain,Sore throat,Headache
+Cancer,Cough,Shortness of breath,,,
+Stroke,Joint pain,Sneezing,Vomiting,,
+Influenza,Sneezing,Cough,Nausea,Mood swings,Abdominal pain
+Hepatitis B,Weight loss,Diarrhea,Seizures,Swelling,
+Stroke,Chest pain,Joint pain,,,
+Depression,Weight loss,Skin rash,Chest pain,Sneezing,Blurred vision
+Malaria,Fatigue,Weight loss,Runny nose,Dizziness,Cough
+Heart Disease,Sore throat,Nausea,Sweating,Dizziness,
+Hepatitis C,Headache,Fever,Vomiting,Runny nose,Itching
+Gastritis,Seizures,Vomiting,,,
+Bronchitis,Skin rash,Sneezing,,,
+COVID-19,Mood swings,Dizziness,,,
+Cholera,Sneezing,Mood swings,,,
+Gastritis,Vomiting,Blurred vision,,,
+Hepatitis C,Cold hands and feet,Dizziness,Mood swings,Cough,
+Migraine,Joint pain,Mood swings,Fatigue,Seizures,
+Common Cold,Joint pain,Pale skin,Diarrhea,Blurred vision,Sore throat
+Gastritis,Joint pain,Weight loss,Shortness of breath,Fever,Skin rash
+Asthma,Itching,Shortness of breath,Weight loss,,
+Heart Disease,Dizziness,Abdominal pain,,,
+Arthritis,Sore throat,Headache,,,
+Migraine,Joint pain,Seizures,Sneezing,,
+Malaria,Skin rash,Seizures,Runny nose,Swelling,Cold hands and feet
+Tuberculosis,Vomiting,Joint pain,,,
+Epilepsy,Fatigue,Shortness of breath,Diarrhea,Swelling,
+Mumps,Fever,Cough,Nausea,Seizures,Sweating
+COVID-19,Dizziness,Cold hands and feet,Vomiting,Fever,Sweating
+Hepatitis B,Pale skin,Headache,Sore throat,Sneezing,Cold hands and feet
+Sinusitis,Sweating,Skin rash,Fever,,
+Sinusitis,Sneezing,Runny nose,Pale skin,Weight loss,Nausea
+Anemia,Shortness of breath,Sneezing,Fever,Headache,
+Gastritis,Mood swings,Seizures,Itching,Swelling,
+Bronchitis,Sweating,Shortness of breath,Weight loss,Mood swings,Skin rash
+Stroke,Cold hands and feet,Chest pain,Blurred vision,Weight loss,
+Migraine,Mood swings,Fever,Muscle pain,,
+Mumps,Abdominal pain,Swelling,Itching,Cold hands and feet,
+Anxiety,Sweating,Weight loss,Diarrhea,Fatigue,Cold hands and feet
+Dengue,Muscle pain,Fatigue,Vomiting,,
+Malaria,Chest pain,Sweating,Blurred vision,,
+Pneumonia,Runny nose,Muscle pain,Cold hands and feet,,
+Epilepsy,Muscle pain,Sweating,,,
+Pneumonia,Chest pain,Sweating,,,
+Cholera,Itching,Shortness of breath,Joint pain,Headache,Sneezing
+Cholera,Chest pain,Nausea,Pale skin,Skin rash,Cold hands and feet
+Bronchitis,Abdominal pain,Pale skin,Nausea,Cough,
+Hepatitis C,Chest pain,Fever,Skin rash,Joint pain,
+Measles,Fatigue,Pale skin,Mood swings,Muscle pain,Abdominal pain
+Common Cold,Shortness of breath,Fever,,,
+Cancer,Sweating,Seizures,Diarrhea,Cold hands and feet,Abdominal pain
+Hepatitis B,Itching,Headache,,,
+Stroke,Joint pain,Weight loss,Cold hands and feet,Seizures,
+Tuberculosis,Joint pain,Sneezing,Sore throat,Dizziness,Fatigue
+Malaria,Skin rash,Weight loss,Diarrhea,,
+Tuberculosis,Diarrhea,Muscle pain,Blurred vision,Cough,
+Chickenpox,Cold hands and feet,Muscle pain,,,
+Dengue,Pale skin,Diarrhea,,,
+Influenza,Shortness of breath,Fatigue,Swelling,Joint pain,Runny nose
+Typhoid,Mood swings,Nausea,Dizziness,Joint pain,Weight loss
+Hepatitis B,Itching,Fatigue,Headache,Vomiting,Dizziness
+Bronchitis,Chest pain,Skin rash,,,
+Stroke,Mood swings,Swelling,Sneezing,,
+Cholera,Pale skin,Cold hands and feet,Mood swings,Headache,
+Measles,Blurred vision,Sweating,Shortness of breath,,
+Hypertension,Diarrhea,Dizziness,Mood swings,Skin rash,Seizures
+Bronchitis,Weight loss,Chest pain,Runny nose,Mood swings,
+Typhoid,Headache,Cold hands and feet,,,
+COVID-19,Diarrhea,Joint pain,,,
+Typhoid,Headache,Sneezing,,,
+Anxiety,Abdominal pain,Vomiting,Skin rash,,
+Hepatitis B,Mood swings,Dizziness,Nausea,Runny nose,
+Epilepsy,Itching,Sore throat,Cold hands and feet,,
+Hypertension,Skin rash,Diarrhea,Sore throat,Itching,
+Malaria,Fever,Muscle pain,Fatigue,Abdominal pain,Skin rash
+Depression,Blurred vision,Shortness of breath,,,
+Dengue,Blurred vision,Sweating,,,
+Migraine,Itching,Cold hands and feet,Fever,Sore throat,
+Epilepsy,Chest pain,Sweating,Nausea,Weight loss,
+Hepatitis B,Skin rash,Fever,Sneezing,Weight loss,Runny nose
+Epilepsy,Dizziness,Swelling,Fatigue,Nausea,Chest pain
+Pneumonia,Sore throat,Pale skin,,,
+Anxiety,Weight loss,Pale skin,Skin rash,,
+COVID-19,Sore throat,Skin rash,,,
+Common Cold,Blurred vision,Cough,,,
+Hepatitis C,Seizures,Sweating,Shortness of breath,Swelling,Sneezing
+Stroke,Sweating,Fever,Nausea,Itching,
+Heart Disease,Fever,Itching,Chest pain,Abdominal pain,
+Hepatitis B,Sore throat,Muscle pain,Chest pain,Sweating,Pale skin
+COVID-19,Skin rash,Shortness of breath,Abdominal pain,,
+Depression,Seizures,Pale skin,Muscle pain,,
+Cholera,Blurred vision,Sore throat,Cough,,
+Anxiety,Chest pain,Pale skin,Seizures,,
+Pneumonia,Cough,Vomiting,Pale skin,,
+Tuberculosis,Chest pain,Weight loss,Vomiting,,
+Influenza,Seizures,Sneezing,Skin rash,,
+Common Cold,Sneezing,Shortness of breath,,,
+Epilepsy,Sneezing,Cough,Shortness of breath,Mood swings,
+Pneumonia,Abdominal pain,Fever,Pale skin,Shortness of breath,
+Anxiety,Headache,Abdominal pain,Blurred vision,Fever,Skin rash
+Sinusitis,Sore throat,Headache,Fatigue,Shortness of breath,Runny nose
+Arthritis,Sore throat,Mood swings,,,
+Hypertension,Swelling,Sore throat,,,
+Pneumonia,Shortness of breath,Chest pain,,,
+Asthma,Cough,Seizures,,,
+Heart Disease,Fever,Pale skin,Blurred vision,,
+Tuberculosis,Cough,Sore throat,Itching,,
+Cancer,Cold hands and feet,Dizziness,Diarrhea,Mood swings,Sweating
+Sinusitis,Cough,Headache,Vomiting,Itching,Skin rash
+Malaria,Runny nose,Shortness of breath,Nausea,Sore throat,
+Depression,Mood swings,Seizures,Fever,Skin rash,
+Measles,Cold hands and feet,Sore throat,Muscle pain,Fatigue,Swelling
+COVID-19,Chest pain,Fever,Cough,Blurred vision,
+Hepatitis C,Abdominal pain,Swelling,Weight loss,Diarrhea,Chest pain
+Chickenpox,Cough,Diarrhea,,,
+Arthritis,Sneezing,Fever,Cold hands and feet,Joint pain,
+Gastritis,Cold hands and feet,Fatigue,Shortness of breath,,
+Depression,Vomiting,Muscle pain,Swelling,Cold hands and feet,Mood swings
+Migraine,Chest pain,Cough,Fever,Mood swings,Sneezing
+Hypertension,Sneezing,Fever,Pale skin,Joint pain,Chest pain
+Measles,Seizures,Fever,,,
+Diabetes,Joint pain,Vomiting,,,
+Arthritis,Nausea,Shortness of breath,Vomiting,Swelling,Cold hands and feet
+Cancer,Blurred vision,Joint pain,Weight loss,Cold hands and feet,Chest pain
+Sinusitis,Dizziness,Weight loss,Sweating,Chest pain,
+Dengue,Cold hands and feet,Seizures,Diarrhea,Skin rash,Dizziness
+Cancer,Diarrhea,Sneezing,Chest pain,,
+Cholera,Itching,Shortness of breath,,,
+Epilepsy,Sneezing,Skin rash,Mood swings,Cough,Sore throat
+Stroke,Seizures,Shortness of breath,,,
+Asthma,Cold hands and feet,Shortness of breath,Nausea,,
+Cholera,Fatigue,Cold hands and feet,,,
+COVID-19,Mood swings,Skin rash,Nausea,Joint pain,
+Heart Disease,Weight loss,Dizziness,Fever,Itching,
+Ulcer,Fatigue,Diarrhea,Sneezing,,
+Tuberculosis,Swelling,Seizures,,,
+Measles,Pale skin,Sore throat,Nausea,Abdominal pain,
+Migraine,Chest pain,Itching,,,
+Typhoid,Itching,Sweating,Mood swings,,
+Cholera,Sweating,Swelling,Weight loss,Shortness of breath,Itching
+Depression,Abdominal pain,Weight loss,Skin rash,Blurred vision,Cold hands and feet
+Migraine,Abdominal pain,Blurred vision,Diarrhea,Sneezing,Headache
+Mumps,Weight loss,Runny nose,Seizures,,
+Bronchitis,Fatigue,Weight loss,Fever,,
+Tuberculosis,Diarrhea,Muscle pain,Abdominal pain,,
+Depression,Cold hands and feet,Dizziness,Fatigue,Muscle pain,Sweating
+Cancer,Sneezing,Swelling,,,
+Arthritis,Sweating,Chest pain,Itching,Nausea,Sore throat
+COVID-19,Dizziness,Runny nose,Nausea,Diarrhea,Chest pain
+Anemia,Runny nose,Blurred vision,Headache,Nausea,Shortness of breath
+Hepatitis B,Itching,Muscle pain,Cold hands and feet,Mood swings,Runny nose
+Common Cold,Chest pain,Diarrhea,Swelling,,
+Asthma,Skin rash,Mood swings,,,
+Arthritis,Cough,Mood swings,Fatigue,Pale skin,Joint pain
+Hypertension,Cold hands and feet,Chest pain,,,
+Cancer,Seizures,Joint pain,Nausea,,
+Tuberculosis,Fever,Diarrhea,Itching,Shortness of breath,
+Chickenpox,Joint pain,Pale skin,,,
+Typhoid,Abdominal pain,Itching,Cold hands and feet,Shortness of breath,
+Bronchitis,Seizures,Skin rash,Muscle pain,Pale skin,
+Bronchitis,Skin rash,Cold hands and feet,Blurred vision,,
+Malaria,Pale skin,Muscle pain,,,
+Sinusitis,Swelling,Fever,,,
+Depression,Swelling,Abdominal pain,Joint pain,Mood swings,
+Hypertension,Sweating,Cold hands and feet,Sore throat,Muscle pain,
+Depression,Sneezing,Nausea,,,
+Bronchitis,Joint pain,Chest pain,Diarrhea,Cold hands and feet,Fever
+Malaria,Chest pain,Diarrhea,Joint pain,Weight loss,
+Depression,Sneezing,Fatigue,Chest pain,Muscle pain,Headache
+Measles,Headache,Runny nose,Abdominal pain,Joint pain,
+Tuberculosis,Blurred vision,Abdominal pain,Headache,,
+Pneumonia,Headache,Dizziness,Runny nose,,
+Typhoid,Sweating,Weight loss,,,
+Measles,Dizziness,Cold hands and feet,,,
+Asthma,Swelling,Pale skin,Sore throat,Abdominal pain,Vomiting
+Influenza,Swelling,Headache,Shortness of breath,Sweating,Diarrhea
+Measles,Fatigue,Fever,,,
+Measles,Sore throat,Itching,,,
+Cholera,Fatigue,Swelling,Shortness of breath,Sweating,
+Influenza,Sweating,Headache,Abdominal pain,Dizziness,
+Asthma,Sore throat,Shortness of breath,,,
+Stroke,Skin rash,Itching,Joint pain,Swelling,Chest pain
+Depression,Sneezing,Muscle pain,Joint pain,Blurred vision,
+Hypertension,Dizziness,Joint pain,Sore throat,Muscle pain,Seizures
+Typhoid,Cold hands and feet,Itching,,,
+Malaria,Cold hands and feet,Vomiting,,,
+Mumps,Sneezing,Itching,Skin rash,Muscle pain,Vomiting
+Dengue,Cold hands and feet,Diarrhea,,,
+Ulcer,Pale skin,Headache,,,
+Epilepsy,Skin rash,Chest pain,Abdominal pain,Weight loss,
+Tuberculosis,Abdominal pain,Muscle pain,,,
+Anemia,Sneezing,Sweating,Weight loss,,
+Pneumonia,Blurred vision,Sore throat,Joint pain,Diarrhea,
+Mumps,Cough,Nausea,Muscle pain,Headache,
+Bronchitis,Cough,Fever,Dizziness,,
+Ulcer,Abdominal pain,Fatigue,Headache,Dizziness,Cold hands and feet
+Pneumonia,Nausea,Joint pain,Sweating,Sore throat,
+Dengue,Vomiting,Fatigue,,,
+Hepatitis C,Seizures,Runny nose,Mood swings,Vomiting,
+Epilepsy,Vomiting,Blurred vision,Nausea,,
+Influenza,Blurred vision,Mood swings,,,
+Cholera,Mood swings,Pale skin,Shortness of breath,Runny nose,
+Migraine,Fever,Blurred vision,Runny nose,,
+Stroke,Joint pain,Swelling,Shortness of breath,Weight loss,Sneezing
+Depression,Blurred vision,Seizures,Fatigue,,
+Gastritis,Seizures,Pale skin,Dizziness,,
+Influenza,Diarrhea,Cough,Fever,Sneezing,
+Sinusitis,Pale skin,Dizziness,Chest pain,Nausea,
+Tuberculosis,Chest pain,Dizziness,,,
+Gastritis,Chest pain,Swelling,Joint pain,,
+Mumps,Skin rash,Seizures,,,
+Gastritis,Mood swings,Fever,Chest pain,Dizziness,
+Diabetes,Muscle pain,Joint pain,Diarrhea,,
+Diabetes,Itching,Cold hands and feet,,,
+Migraine,Abdominal pain,Sneezing,Diarrhea,,
+Typhoid,Chest pain,Weight loss,Itching,Swelling,Fatigue
+Cholera,Fatigue,Nausea,Blurred vision,,
+Ulcer,Fever,Weight loss,Sneezing,,
+Typhoid,Itching,Chest pain,,,
+Influenza,Cough,Skin rash,Vomiting,Weight loss,
+Stroke,Swelling,Skin rash,Fever,,
+Cancer,Seizures,Runny nose,Mood swings,Sweating,Muscle pain
+COVID-19,Fatigue,Fever,Joint pain,Weight loss,Seizures
+Sinusitis,Sweating,Runny nose,Dizziness,Pale skin,
+Hypertension,Runny nose,Diarrhea,Skin rash,Swelling,
+Pneumonia,Sore throat,Swelling,Fatigue,Mood swings,
+Influenza,Skin rash,Abdominal pain,Muscle pain,Pale skin,
+Sinusitis,Cold hands and feet,Fatigue,Swelling,Weight loss,Mood swings
+Tuberculosis,Weight loss,Fatigue,Cough,Mood swings,Abdominal pain
+Common Cold,Skin rash,Sneezing,Fatigue,,
+Tuberculosis,Abdominal pain,Diarrhea,Runny nose,,
+Migraine,Nausea,Mood swings,,,
+Malaria,Cold hands and feet,Seizures,Chest pain,,
+Influenza,Runny nose,Headache,Sneezing,Pale skin,
+Anemia,Weight loss,Sweating,,,
+Hepatitis C,Abdominal pain,Fever,Sore throat,,
+Tuberculosis,Seizures,Sneezing,Joint pain,Abdominal pain,Shortness of breath
+Influenza,Fever,Blurred vision,Shortness of breath,,
+Asthma,Nausea,Cough,Headache,Mood swings,
+COVID-19,Cold hands and feet,Blurred vision,Nausea,Chest pain,
+Anemia,Vomiting,Abdominal pain,Cough,Dizziness,
+Sinusitis,Pale skin,Swelling,,,
+Migraine,Pale skin,Swelling,Cough,Dizziness,Diarrhea
+Stroke,Weight loss,Nausea,,,
+COVID-19,Skin rash,Shortness of breath,Sneezing,Diarrhea,
+Measles,Itching,Dizziness,Fever,,
+Tuberculosis,Mood swings,Sore throat,,,
+COVID-19,Runny nose,Seizures,Sweating,,
+Depression,Sneezing,Mood swings,Itching,Swelling,
+Typhoid,Mood swings,Muscle pain,Abdominal pain,Fatigue,Sore throat
+Influenza,Cold hands and feet,Headache,Fever,,
+Dengue,Chest pain,Weight loss,Skin rash,,
+Typhoid,Chest pain,Nausea,,,
+Dengue,Muscle pain,Mood swings,Joint pain,Headache,
+Chickenpox,Itching,Dizziness,Sneezing,Shortness of breath,
+Diabetes,Sore throat,Abdominal pain,Vomiting,Sneezing,Headache
+COVID-19,Runny nose,Mood swings,Fatigue,Nausea,Chest pain
+Hypertension,Sore throat,Mood swings,Muscle pain,Nausea,
+Sinusitis,Diarrhea,Blurred vision,Joint pain,,
+Chickenpox,Fever,Sneezing,Pale skin,Fatigue,
+Arthritis,Swelling,Joint pain,,,
+Measles,Weight loss,Dizziness,,,
+Malaria,Fatigue,Pale skin,Weight loss,Vomiting,Shortness of breath
+Dengue,Shortness of breath,Weight loss,,,
+Diabetes,Sore throat,Fatigue,Mood swings,Blurred vision,
+Hepatitis B,Seizures,Muscle pain,Fatigue,,
+Anxiety,Vomiting,Swelling,Muscle pain,,
+Gastritis,Pale skin,Skin rash,Fatigue,Mood swings,
+Sinusitis,Fatigue,Runny nose,,,
+Measles,Chest pain,Mood swings,Runny nose,Weight loss,
+Cancer,Fever,Joint pain,Sneezing,,
+Bronchitis,Shortness of breath,Weight loss,Diarrhea,,
+Stroke,Vomiting,Cold hands and feet,Nausea,Dizziness,
+Depression,Pale skin,Fever,Nausea,,
+Typhoid,Abdominal pain,Dizziness,Vomiting,Joint pain,Pale skin
+Cancer,Headache,Fatigue,Sore throat,Blurred vision,
+Gastritis,Sweating,Sore throat,Vomiting,Nausea,Muscle pain
+Hepatitis B,Dizziness,Cold hands and feet,Skin rash,Headache,Runny nose
+Typhoid,Weight loss,Vomiting,Headache,Dizziness,Diarrhea
+Influenza,Dizziness,Diarrhea,,,
+Hypertension,Cold hands and feet,Blurred vision,Sweating,Nausea,Pale skin
+Arthritis,Abdominal pain,Blurred vision,Weight loss,Cough,Skin rash
+Stroke,Mood swings,Shortness of breath,,,
+Heart Disease,Shortness of breath,Seizures,Runny nose,Itching,Sneezing
+Common Cold,Dizziness,Fatigue,Cough,Mood swings,
+Malaria,Seizures,Sore throat,,,
+Anxiety,Shortness of breath,Sneezing,,,
+Common Cold,Headache,Itching,,,
+Anemia,Pale skin,Abdominal pain,Chest pain,Shortness of breath,Cold hands and feet
+Arthritis,Swelling,Diarrhea,Itching,Skin rash,Runny nose
+Anemia,Weight loss,Headache,,,
+Gastritis,Swelling,Joint pain,,,
+COVID-19,Muscle pain,Seizures,Nausea,,
+Epilepsy,Shortness of breath,Seizures,,,
+Dengue,Abdominal pain,Headache,Cough,,
+Bronchitis,Diarrhea,Chest pain,,,
+Cholera,Seizures,Muscle pain,Diarrhea,Vomiting,Chest pain
+Cholera,Shortness of breath,Fever,Joint pain,Swelling,Diarrhea
+Hepatitis B,Vomiting,Itching,Runny nose,Abdominal pain,Skin rash
+Measles,Diarrhea,Abdominal pain,Swelling,Fever,Cold hands and feet
+Diabetes,Blurred vision,Muscle pain,,,
+Epilepsy,Abdominal pain,Sneezing,Fatigue,Cough,Sweating
+Influenza,Nausea,Diarrhea,,,
+Hypertension,Sweating,Runny nose,,,
+Common Cold,Itching,Fever,Abdominal pain,,
