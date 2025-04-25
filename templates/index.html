@@ -232,7 +232,7 @@
             left: 0;
             background-color: var(--danger);
             transform: rotate(-45deg);
-            animation: pulse 1.5s ease infinite;
+            animation: pulse 1s ease infinite;
         }
 
         .heart::before, .heart::after {
@@ -503,7 +503,7 @@
             </div>
             <nav>
                 <ul>
-                    <li><a href="#home">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li><a href="#diagnosis">Self Diagnosis</a></li>
                     <li><a href="#emergency">Emergency</a></li>
                     <li><a href="#about">About Us</a></li>
@@ -530,10 +530,20 @@
                 </div>
 
                 <div class="diagnosis-container">
-                    <form id="diagnosisForm">
+                    <form id='diagnosisForm'>
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="die">Diseases</label>
+                            <select id="die" name="die" required>
+                                <option value="">Select Diseases</option>
+                                <option>Common Cold</option>
+                                <option>Enfluenza</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
                         <div class="form-group">
                             <label for="age">Age</label>
-                            <input type="number" id="age" name="age" min="1" max="120" required>
+                            <input type="number" placeholder='Enter Your Age' id="age" name="age" min="1" max="120" required>
                         </div>
                         <div class="form-group">
                             <label for="gender">Gender</label>
@@ -545,8 +555,116 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="symptoms">Describe Your Symptoms</label>
-                            <textarea id="symptoms" name="symptoms" placeholder="Describe your symptoms in detail (e.g., headache, fever, nausea, duration)" required></textarea>
+                            <label for="head">Headache (If Yes otherwise No)</label>
+                            <select name="Headache" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="fever">Fever (If Yes otherwise No)</label>
+                            <select name="fever" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="cough">Cough (If Yes otherwise No)</label>
+                            <select name="cough" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Dizziness (If Yes otherwise No)</label>
+                            <select name="dizz" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="Vision">Blurred Vision (If Yes otherwise No)</label>
+                            <select name="blu_vis" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Chest Pain (If Yes otherwise No)</label>
+                            <select name="ches_pai" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Fatigue (If Yes otherwise No)</label>
+                            <select name="fati" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Shortness of Breath (If Yes otherwise No)</label>
+                            <select name="shor_brea" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Difficulty Breathing (If Yes otherwise No)</label>
+                            <select name="diff_brea" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Irregular Heartbeat (If Yes otherwise No)</label>
+                            <select name="ireg_hertb" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Sweating (If Yes otherwise No)</label>
+                            <select name="sweat" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Sleep Problems (If Yes otherwise No)</label>
+                            <select name="slp_pr" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Swelling in legs (If Yes otherwise No)</label>
+                            <select name="swel_leg" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Tinnitus (If Yes otherwise No)</label>
+                            <select name="tinnit" required>
+                                <option value="">Select Symptom</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                            </select>
                         </div>
                         <div class="form-group">
                             <label for="duration">Duration of Symptoms</label>
@@ -624,7 +742,7 @@
                 <div class="footer-column">
                     <h3>Quick Links</h3>
                     <ul>
-                        <li><a href="#home">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><a href="#diagnosis">Self Diagnosis</a></li>
                         <li><a href="#emergency">Emergency</a></li>
                         <li><a href="#about">About Us</a></li>
@@ -656,8 +774,7 @@
     </footer>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Form submission for diagnosis
+        document.addEventListener('DOMContentLoaded', function () {
             const diagnosisForm = document.getElementById('diagnosisForm');
             const processingContainer = document.getElementById('processingContainer');
             const resultContainer = document.getElementById('resultContainer');
@@ -667,40 +784,16 @@
             const doctorAnimation = document.getElementById('doctorAnimation');
             const prescriptionContent = document.getElementById('prescriptionContent');
             const hospitalList = document.getElementById('hospitalList');
-
-            // Sample hospital data (in a real app, this would come from an API)
+        
+            // Hospital data
             const hospitals = [
-                {
-                    name: "City General Hospital",
-                    address: "123 Health St, Medical City",
-                    phone: "(555) 123-4567",
-                    distance: "1.2 miles",
-                    emergency: "24/7 Emergency Department"
-                },
-                {
-                    name: "Community Medical Center",
-                    address: "456 Care Ave, Health Town",
-                    phone: "(555) 987-6543",
-                    distance: "2.5 miles",
-                    emergency: "24/7 Emergency Services"
-                },
-                {
-                    name: "Urgent Care Clinic",
-                    address: "789 Wellness Blvd, Care City",
-                    phone: "(555) 456-7890",
-                    distance: "0.8 miles",
-                    emergency: "Open until 10pm"
-                },
-                {
-                    name: "Children's Hospital",
-                    address: "101 Pediatric Lane, Kidsville",
-                    phone: "(555) 111-2222",
-                    distance: "3.1 miles",
-                    emergency: "Pediatric Emergency 24/7"
-                }
+                { name: "City General Hospital", address: "123 Health St, Medical City", phone: "(555) 123-4567", distance: "1.2 miles", emergency: "24/7 Emergency Department" },
+                { name: "Community Medical Center", address: "456 Care Ave, Health Town", phone: "(555) 987-6543", distance: "2.5 miles", emergency: "24/7 Emergency Services" },
+                { name: "Urgent Care Clinic", address: "789 Wellness Blvd, Care City", phone: "(555) 456-7890", distance: "0.8 miles", emergency: "Open until 10pm" },
+                { name: "Children's Hospital", address: "101 Pediatric Lane, Kidsville", phone: "(555) 111-2222", distance: "3.1 miles", emergency: "Pediatric Emergency 24/7" }
             ];
-
-            // Load hospitals
+        
+            // Load hospitals dynamically
             function loadHospitals() {
                 hospitalList.innerHTML = '';
                 hospitals.forEach(hospital => {
@@ -711,169 +804,80 @@
                         <p><i class="fas fa-map-marker-alt"></i> ${hospital.address}</p>
                         <p><i class="fas fa-phone"></i> ${hospital.phone}</p>
                         <p><i class="fas fa-exclamation-triangle"></i> ${hospital.emergency}</p>
-                        <span class="distance"><i class="fas fa-walking"></i> ${hospital.distance} away</span>
-                        <br>
+                        <span class="distance"><i class="fas fa-walking"></i> ${hospital.distance} away</span><br>
                         <a href="tel:${hospital.phone.replace(/[^0-9]/g, '')}" class="call-btn"><i class="fas fa-phone"></i> Call Now</a>
                     `;
                     hospitalList.appendChild(hospitalCard);
                 });
             }
-
-            // Sample diagnosis data (in a real app, this would come from an API)
-            const diagnosisData = {
-                "headache,fever": {
-                    condition: "Possible Flu or Common Cold",
-                    description: "Your symptoms of headache and fever may indicate a common viral infection like the flu or a cold.",
-                    prescription: {
-                        medications: [
-                            "Acetaminophen (Tylenol) - 500mg every 4-6 hours as needed for fever/pain",
-                            "Ibuprofen (Advil) - 200-400mg every 6-8 hours as needed for pain/inflammation",
-                            "Decongestant (if nasal congestion is present)"
-                        ],
-                        recommendations: [
-                            "Get plenty of rest",
-                            "Drink fluids to stay hydrated",
-                            "Use a humidifier to ease congestion",
-                            "Monitor your temperature"
-                        ],
-                        warning: "Seek medical attention if fever persists for more than 3 days or exceeds 103°F (39.4°C), or if you experience difficulty breathing, severe headache, or confusion."
-                    }
-                },
-                "nausea,vomiting,diarrhea": {
-                    condition: "Possible Gastroenteritis (Stomach Flu)",
-                    description: "Your symptoms of nausea, vomiting, and diarrhea suggest you may have gastroenteritis, commonly known as stomach flu.",
-                    prescription: {
-                        medications: [
-                            "Oral rehydration solutions (Pedialyte, sports drinks)",
-                            "Bismuth subsalicylate (Pepto-Bismol) - as directed for nausea/diarrhea",
-                            "Loperamide (Imodium) - only after first 24 hours if diarrhea persists"
-                        ],
-                        recommendations: [
-                            "Start with clear liquids and progress to bland foods (BRAT diet: bananas, rice, applesauce, toast)",
-                            "Avoid dairy, fatty foods, caffeine, and alcohol",
-                            "Wash hands frequently to prevent spread"
-                        ],
-                        warning: "Seek immediate medical attention if you see blood in vomit or stool, have severe abdominal pain, or show signs of dehydration (dizziness, dry mouth, decreased urination)."
-                    }
-                },
-                "chest pain,shortness of breath": {
-                    condition: "Possible Cardiac or Respiratory Issue",
-                    description: "Chest pain with shortness of breath requires immediate medical evaluation as it could indicate a serious condition.",
-                    prescription: {
-                        medications: [],
-                        recommendations: [
-                            "Call emergency services immediately",
-                            "Chew one adult aspirin (325mg) if not allergic",
-                            "Stay calm and sit in a comfortable position while waiting for help"
-                        ],
-                        warning: "DO NOT DELAY seeking medical attention for these symptoms as they could indicate a heart attack, pulmonary embolism, or other life-threatening condition."
-                    }
-                },
-                "default": {
-                    condition: "General Symptoms",
-                    description: "Your symptoms require further evaluation. While not immediately alarming, you should monitor your condition.",
-                    prescription: {
-                        medications: [
-                            "Acetaminophen or Ibuprofen for pain/fever as needed"
-                        ],
-                        recommendations: [
-                            "Get adequate rest",
-                            "Stay hydrated",
-                            "Monitor symptoms for worsening"
-                        ],
-                        warning: "Consult a healthcare provider if symptoms worsen or persist for more than 3 days."
-                    }
-                }
-            };
-
-            diagnosisForm.addEventListener('submit', function(e) {
+        
+            // Handle diagnosis form submission
+            diagnosisForm.addEventListener('submit', function (e) {
                 e.preventDefault();
-                
+        
                 // Show processing animation
                 diagnosisForm.style.display = 'none';
                 processingContainer.style.display = 'block';
-                
-                // Simulate processing delay
-                setTimeout(function() {
+                window.scrollTo({ top: processingContainer.offsetTop, behavior: 'smooth' });
+        
+                const formData = new FormData(diagnosisForm);
+        
+                fetch('/model_form', {
+                    method: 'POST',
+                    headers: {
+                        'X-CSRFToken': formData.get('csrfmiddlewaretoken')
+                    },
+                    body: formData
+                })
+                .then(res => res.json())
+                .then(data => {
                     processingContainer.style.display = 'none';
                     resultContainer.style.display = 'block';
-                    
-                    // Get symptoms from textarea
-                    const symptomsText = document.getElementById('symptoms').value.toLowerCase();
-                    
-                    // Simple symptom matching (in a real app, this would be much more sophisticated)
-                    let matchedCondition = diagnosisData.default;
-                    
-                    if (symptomsText.includes('headache') && symptomsText.includes('fever')) {
-                        matchedCondition = diagnosisData['headache,fever'];
-                    } else if ((symptomsText.includes('nausea') || symptomsText.includes('vomiting')) && symptomsText.includes('diarrhea')) {
-                        matchedCondition = diagnosisData['nausea,vomiting,diarrhea'];
-                    } else if (symptomsText.includes('chest pain') && symptomsText.includes('shortness of breath')) {
-                        matchedCondition = diagnosisData['chest pain,shortness of breath'];
-                    }
-                    
-                    // Display diagnosis
+        
+                    // Display diagnosis result
                     diagnosisResult.innerHTML = `
-                        <h4>${matchedCondition.condition}</h4>
-                        <p>${matchedCondition.description}</p>
+                        <h4>${data.condition}</h4>
+                        <p>${data.description}</p>
                     `;
-                    
-                    // Show prescription button if not emergency
-                    if (!(symptomsText.includes('chest pain') && !symptomsText.includes('shortness of breath'))) {
+        
+                    // Show prescription button if available
+                    if (data.prescription) {
                         showPrescriptionBtn.style.display = 'inline-block';
-                        
-                        // Store prescription data for later display
-                        showPrescriptionBtn.onclick = function() {
+        
+                        showPrescriptionBtn.onclick = function () {
                             showPrescriptionBtn.style.display = 'none';
                             doctorAnimation.style.display = 'block';
-                            
-                            // Show doctor animation
-                            setTimeout(function() {
+        
+                            // Add heartbeat effect to the doctor animation
+                            doctorAnimation.classList.add('heartbeat');  // Add heartbeat class here
+        
+                            setTimeout(() => {
                                 doctorAnimation.style.display = 'none';
                                 prescriptionContainer.style.display = 'block';
-                                
-                                // Display prescription
-                                prescriptionContent.innerHTML = '';
-                                
-                                if (matchedCondition.prescription.medications.length > 0) {
-                                    prescriptionContent.innerHTML += `
-                                        <h5>Medications:</h5>
-                                        <ul>
-                                            ${matchedCondition.prescription.medications.map(med => `<li>${med}</li>`).join('')}
-                                        </ul>
-                                    `;
-                                }
-                                
-                                if (matchedCondition.prescription.recommendations.length > 0) {
-                                    prescriptionContent.innerHTML += `
-                                        <h5>Recommendations:</h5>
-                                        <ul>
-                                            ${matchedCondition.prescription.recommendations.map(rec => `<li>${rec}</li>`).join('')}
-                                        </ul>
-                                    `;
-                                }
-                                
-                                if (matchedCondition.prescription.warning) {
-                                    prescriptionContent.innerHTML += `
-                                        <h5 style="color: var(--danger);">Warning:</h5>
-                                        <p>${matchedCondition.prescription.warning}</p>
-                                    `;
-                                }
-                                
-                                // Scroll to prescription
-                                prescriptionContainer.scrollIntoView({ behavior: 'smooth' });
-                            }, 3000);
+        
+                                // Display the prescription data
+                                prescriptionContent.innerHTML = `
+                                    <h5>Medications:</h5>
+                                    <ul>${data.prescription.medications.map(m => `<li>${m}</li>`).join('')}</ul>
+                                    <h5>Recommendations:</h5>
+                                    <ul>${data.prescription.recommendations.map(r => `<li>${r}</li>`).join('')}</ul>
+                                    <h5 style="color: var(--danger);">Warning:</h5>
+                                    <p>${data.prescription.warning}</p>
+                                `;
+                            }, 4000); // Adjust to match animation duration
                         };
                     }
-                    
-                    // Scroll to results
+        
+                    // Scroll to results section
                     resultContainer.scrollIntoView({ behavior: 'smooth' });
-                }, 3000);
+                });
             });
-
-            // Initialize the page
+        
+            // Load hospital information when the page loads
             loadHospitals();
         });
-    </script>
+        
+</script>
+
 </body>
 </html>
