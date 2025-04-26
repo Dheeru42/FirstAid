@@ -535,10 +535,13 @@
                         <div class="form-group">
                             <label for="die">Diseases</label>
                             <select id="die" name="die" required>
-                                <option value="">Select Diseases</option>
+                                <option>Select Diseases For Diagnose</option>
                                 <option>Common Cold</option>
+                                <option>Asthma</option>
+                                <option>Stroke</option>
+                                <option>Depression</option>
+                                <option>Liver Cancer</option>
                                 <option>Enfluenza</option>
-                                <option value="other">Other</option>
                             </select>
                         </div>
                         <div class="form-group">
@@ -555,7 +558,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="head">Headache (If Yes otherwise No)</label>
+                            <label for="symptom">Headache (If Yes otherwise No)</label>
                             <select name="Headache" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -563,7 +566,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="fever">Fever (If Yes otherwise No)</label>
+                            <label for="symptom">Fever (If Yes otherwise No)</label>
                             <select name="fever" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -571,7 +574,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="cough">Cough (If Yes otherwise No)</label>
+                            <label for="symptom">Cough (If Yes otherwise No)</label>
                             <select name="cough" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -579,7 +582,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Dizziness (If Yes otherwise No)</label>
+                            <label for="symptom">Dizziness (If Yes otherwise No)</label>
                             <select name="dizz" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -587,7 +590,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="Vision">Blurred Vision (If Yes otherwise No)</label>
+                            <label for="isymptom">Blurred Vision (If Yes otherwise No)</label>
                             <select name="blu_vis" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -595,7 +598,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Chest Pain (If Yes otherwise No)</label>
+                            <label for="symptom">Chest Pain (If Yes otherwise No)</label>
                             <select name="ches_pai" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -603,7 +606,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Fatigue (If Yes otherwise No)</label>
+                            <label for="symptom">Fatigue (If Yes otherwise No)</label>
                             <select name="fati" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -611,7 +614,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Shortness of Breath (If Yes otherwise No)</label>
+                            <label for="symptom">Shortness of Breath (If Yes otherwise No)</label>
                             <select name="shor_brea" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -619,7 +622,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Difficulty Breathing (If Yes otherwise No)</label>
+                            <label for="symptom">Difficulty Breathing (If Yes otherwise No)</label>
                             <select name="diff_brea" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -627,7 +630,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Irregular Heartbeat (If Yes otherwise No)</label>
+                            <label for="symptom">Irregular Heartbeat (If Yes otherwise No)</label>
                             <select name="ireg_hertb" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -635,7 +638,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Sweating (If Yes otherwise No)</label>
+                            <label for="symptom">Sweating (If Yes otherwise No)</label>
                             <select name="sweat" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -643,7 +646,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Sleep Problems (If Yes otherwise No)</label>
+                            <label for="symptom">Sleep Problems (If Yes otherwise No)</label>
                             <select name="slp_pr" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -651,7 +654,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Swelling in legs (If Yes otherwise No)</label>
+                            <label for="symptom">Swelling in legs (If Yes otherwise No)</label>
                             <select name="swel_leg" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
@@ -659,21 +662,11 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="age">Tinnitus (If Yes otherwise No)</label>
+                            <label for="symptom">Tinnitus (If Yes otherwise No)</label>
                             <select name="tinnit" required>
                                 <option value="">Select Symptom</option>
                                 <option value="Yes">Yes</option>
                                 <option value="No">No</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="duration">Duration of Symptoms</label>
-                            <select id="duration" name="duration" required>
-                                <option value="">Select Duration</option>
-                                <option value="less-than-day">Less than a day</option>
-                                <option value="1-2-days">1-2 days</option>
-                                <option value="3-7-days">3-7 days</option>
-                                <option value="more-than-week">More than a week</option>
                             </select>
                         </div>
                         <button type="submit" class="btn btn-primary">Diagnose Symptoms</button>
@@ -837,7 +830,7 @@
                     // Display diagnosis result
                     diagnosisResult.innerHTML = `
                         <h4>${data.condition}</h4>
-                        <p>${data.description}</p>
+                        <h4>${data.description}</h4>
                     `;
         
                     // Show prescription button if available

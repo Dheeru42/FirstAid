@@ -45,12 +45,12 @@ def model_form(request):
         if result1 == 'Negative':
             text1 = f"You Don't Have {die}"
         else:
-            text1 = f"You Have {die} ,Take An Medical Help Immediately!!!!"   
+            text1 = f"You Have {die} ,Take An Medical Help"   
             
         # Sample response - should be mapped to real predictions
         response = {
             "condition": text,
-            "description": text1 + ".",
+            "description": text1,
             "prescription": {
                 "medications": ["Sample Medicine 1", "Sample Medicine 2"],
                 "recommendations": ["Drink fluids", "Get rest"],
