@@ -1,0 +1,1459 @@
+1. Influenza (Flu)
+Prescription:
+
+Antiviral: Oseltamivir (Tamiflu), Zanamivir (Relenza)
+
+Symptomatic Relief: Acetaminophen (Tylenol), Ibuprofen (Advil), Decongestants
+
+Prevention: Annual flu vaccine
+
+Recommended Treatment:
+
+Rest, hydration, OTC fever reducers
+
+2. Common Cold
+Prescription:
+
+Decongestant: Pseudoephedrine (Sudafed)
+
+Antihistamine: Diphenhydramine (Benadryl)
+
+Symptomatic Relief: Acetaminophen, throat lozenges
+
+Recommended Treatment:
+
+Hydration, rest, nasal saline spray
+
+3. Eczema (Atopic Dermatitis)
+Prescription:
+
+Topical Steroids: Hydrocortisone, Triamcinolone
+
+Immunosuppressants: Tacrolimus (Protopic)
+
+Moisturizers: Ceramide-based creams
+
+Recommended Treatment:
+
+Avoid triggers, fragrance-free moisturizers
+
+4. Asthma
+Prescription:
+
+Bronchodilators: Albuterol (Ventolin)
+
+Corticosteroids: Fluticasone (Flovent)
+
+Leukotriene Modifiers: Montelukast (Singulair)
+
+Recommended Treatment:
+
+Avoid allergens, use peak flow meter
+
+5. Hyperthyroidism
+Prescription:
+
+Antithyroid Drugs: Methimazole (Tapazole)
+
+Beta-Blockers: Propranolol (for symptoms)
+
+Radioactive Iodine or Surgery (if severe)
+
+Recommended Treatment:
+
+Regular thyroid function tests
+
+6. Allergic Rhinitis (Hay Fever)
+Prescription:
+
+Antihistamines: Loratadine (Claritin), Cetirizine (Zyrtec)
+
+Nasal Steroids: Fluticasone (Flonase)
+
+Decongestants: Oxymetazoline (Afrin)
+
+Recommended Treatment:
+
+Allergen avoidance, saline nasal rinses
+
+7. Anxiety Disorders
+Prescription:
+
+SSRIs: Sertraline (Zoloft), Escitalopram (Lexapro)
+
+Benzodiazepines (short-term): Alprazolam (Xanax)
+
+Therapy: CBT
+
+Recommended Treatment:
+
+Mindfulness, relaxation techniques
+
+8. Diabetes (Type 2)
+Prescription:
+
+Metformin (first-line)
+
+Insulin (if uncontrolled)
+
+SGLT2 Inhibitors: Empagliflozin (Jardiance)
+
+Recommended Treatment:
+
+Diet (low-carb), exercise, glucose monitoring
+
+9. Gastroenteritis (Stomach Flu)
+Prescription:
+
+Antiemetics: Ondansetron (Zofran)
+
+Antidiarrheal: Loperamide (Imodium)
+
+Rehydration: Oral rehydration salts (ORS)
+
+Recommended Treatment:
+
+BRAT diet (Bananas, Rice, Applesauce, Toast)
+
+10. Pancreatitis
+Prescription:
+
+Pain Control: IV opioids (Morphine)
+
+IV Fluids & NPO (nothing by mouth)
+
+Enzyme Replacement: Pancrelipase (Creon)
+
+Recommended Treatment:
+
+Avoid alcohol, low-fat diet
+
+11. Rheumatoid Arthritis (RA)
+Prescription:
+
+DMARDs: Methotrexate
+
+Biologics: Adalimumab (Humira)
+
+NSAIDs: Ibuprofen
+
+Recommended Treatment:
+
+Physical therapy, joint protection
+
+12. Depression
+Prescription:
+
+SSRIs: Fluoxetine (Prozac)
+
+SNRIs: Venlafaxine (Effexor)
+
+Therapy: CBT
+
+Recommended Treatment:
+
+Exercise, social support
+
+13. Liver Cancer
+Prescription:
+
+Chemo: Sorafenib (Nexavar)
+
+Immunotherapy: Nivolumab (Opdivo)
+
+Surgery/Liver Transplant
+
+Recommended Treatment:
+
+Regular screening if high-risk
+
+14. Stroke
+Prescription (Ischemic):
+
+tPA (clot-buster within 4.5 hrs)
+
+Antiplatelets: Aspirin, Clopidogrel
+
+Recommended Treatment:
+
+Rehabilitation (PT/OT), BP control
+
+15. Urinary Tract Infection (UTI)
+Prescription:
+
+Antibiotics: Nitrofurantoin (Macrobid), Ciprofloxacin
+
+Recommended Treatment:
+
+Hydration, cranberry juice (preventive)
+16. Dengue Fever
+Prescription:
+
+Supportive Care: Acetaminophen (avoid NSAIDs due to bleeding risk)
+
+IV Fluids (for severe cases)
+
+Recommended Treatment:
+
+Hydration, rest, platelet monitoring
+
+17. Hepatitis (Viral A, B, C, etc.)
+Prescription:
+
+Hepatitis B: Tenofovir, Entecavir
+
+Hepatitis C: Sofosbuvir/Velpatasvir (Epclusa)
+
+Hepatitis A: Supportive care (no specific antiviral)
+
+Recommended Treatment:
+
+Vaccination (for Hep A & B), avoid alcohol
+
+18. Kidney Cancer
+Prescription:
+
+Targeted Therapy: Sunitinib (Sutent)
+
+Immunotherapy: Nivolumab (Opdivo)
+
+Surgery: Nephrectomy
+
+Recommended Treatment:
+
+Smoking cessation, regular imaging
+
+19. Migraine
+Prescription:
+
+Abortive: Sumatriptan (Imitrex)
+
+Preventive: Propranolol, Topiramate
+
+NSAIDs: Ibuprofen (for mild cases)
+
+Recommended Treatment:
+
+Trigger avoidance (stress, certain foods)
+
+20. Muscular Dystrophy
+Prescription:
+
+Steroids: Prednisone (to slow progression)
+
+Physical Therapy
+
+Recommended Treatment:
+
+Mobility aids, respiratory support
+
+21. Sinusitis
+Prescription:
+
+Antibiotics (if bacterial): Amoxicillin-Clavulanate
+
+Nasal Steroids: Fluticasone (Flonase)
+
+Decongestants: Pseudoephedrine
+
+Recommended Treatment:
+
+Saline nasal irrigation, steam inhalation
+
+22. Ulcerative Colitis
+Prescription:
+
+Aminosalicylates: Mesalamine
+
+Immunosuppressants: Azathioprine
+
+Biologics: Infliximab (Remicade)
+
+Recommended Treatment:
+
+Low-residue diet during flares
+
+23. Bipolar Disorder
+Prescription:
+
+Mood Stabilizers: Lithium, Valproate
+
+Antipsychotics: Quetiapine (Seroquel)
+
+Recommended Treatment:
+
+Psychotherapy, routine sleep schedule
+
+24. Bronchitis
+Prescription:
+
+Antibiotics (if bacterial): Azithromycin
+
+Bronchodilators: Albuterol
+
+Cough Suppressant: Dextromethorphan
+
+Recommended Treatment:
+
+Hydration, humidifier, rest
+
+25. Cerebral Palsy
+Prescription:
+
+Muscle Relaxants: Baclofen
+
+Anticonvulsants (if seizures): Levetiracetam
+
+Recommended Treatment:
+
+Physical therapy, occupational therapy
+
+26. Colorectal Cancer
+Prescription:
+
+Chemo: FOLFOX (Oxaliplatin + 5-FU)
+
+Targeted Therapy: Cetuximab
+
+Recommended Treatment:
+
+Colonoscopy screening (early detection)
+
+27. Hypertensive Heart Disease
+Prescription:
+
+Antihypertensives: Lisinopril, Amlodipine
+
+Diuretics: Hydrochlorothiazide
+
+Recommended Treatment:
+
+Low-sodium diet, regular BP checks
+
+28. Multiple Sclerosis (MS)
+Prescription:
+
+Disease-Modifying Therapies (DMTs): Ocrelizumab (Ocrevus)
+
+Steroids (for relapses): Methylprednisolone
+
+Recommended Treatment:
+
+Physical therapy, symptom management
+
+29. Myocardial Infarction (Heart Attack)
+Prescription:
+
+Antiplatelets: Aspirin + Clopidogrel
+
+Beta-Blockers: Metoprolol
+
+Statins: Atorvastatin
+
+Recommended Treatment:
+
+Cardiac rehab, lifestyle changes
+
+30. Osteoporosis
+Prescription:
+
+Bisphosphonates: Alendronate (Fosamax)
+
+Calcium + Vitamin D Supplements
+
+Recommended Treatment:
+
+Weight-bearing exercise, fall prevention
+
+31. Pneumonia
+Prescription:
+
+Antibiotics: Azithromycin (for bacterial)
+
+Antivirals (if viral): Oseltamivir
+
+Recommended Treatment:
+
+Rest, hydration, pneumococcal vaccine
+
+32. Atherosclerosis
+Prescription:
+
+Statins: Atorvastatin
+
+Antiplatelets: Aspirin
+
+Recommended Treatment:
+
+Low-fat diet, regular exercise
+
+33. Chronic Obstructive Pulmonary Disease (COPD)
+Prescription:
+
+Bronchodilators: Tiotropium (Spiriva)
+
+Steroids: Fluticasone/Salmeterol (Advair)
+
+Recommended Treatment:
+
+Smoking cessation, pulmonary rehab
+
+34. Epilepsy
+Prescription:
+
+Anticonvulsants: Levetiracetam (Keppra)
+
+Rescue Med: Diazepam (for seizures)
+
+Recommended Treatment:
+
+Seizure precautions, regular EEG
+
+35. Hypertension (High Blood Pressure)
+Prescription:
+
+ACE Inhibitors: Lisinopril
+
+Calcium Channel Blockers: Amlodipine
+
+Recommended Treatment:
+
+DASH diet, regular monitoring
+
+36. Obsessive-Compulsive Disorder (OCD)
+Prescription:
+
+SSRIs: Fluoxetine (Prozac)
+
+Therapy: Exposure and Response Prevention (ERP)
+
+Recommended Treatment:
+
+Stress management techniques
+
+37. Psoriasis
+Prescription:
+
+Topical Steroids: Clobetasol
+
+Biologics: Adalimumab (Humira)
+
+Recommended Treatment:
+
+Moisturizers, UV light therapy
+
+38. Rubella (German Measles)
+Prescription:
+
+Supportive Care (no specific antiviral)
+
+Recommended Treatment:
+
+MMR vaccine (prevention)
+
+39. Cirrhosis
+Prescription:
+
+Diuretics: Spironolactone (for ascites)
+
+Lactulose (for hepatic encephalopathy)
+
+Recommended Treatment:
+
+Alcohol abstinence, low-protein diet
+
+40. Conjunctivitis (Pink Eye)
+Prescription:
+
+Antibiotic Drops (if bacterial): Moxifloxacin
+
+Antihistamines (if allergic): Ketotifen
+
+Recommended Treatment:
+
+Warm compresses, hygiene
+41. Liver Disease (Chronic)
+Prescription:
+
+Diuretics: Spironolactone (for ascites)
+
+Lactulose (for hepatic encephalopathy)
+
+Beta-blockers: Propranolol (for varices prevention)
+
+Recommended Treatment:
+
+Alcohol abstinence
+
+Low-sodium diet
+
+Regular liver function monitoring
+
+42. Malaria
+Prescription:
+
+Chloroquine (for sensitive strains)
+
+Artemisinin-based combination therapy (ACT) (for resistant strains)
+
+Primaquine (for radical cure of P. vivax)
+
+Recommended Treatment:
+
+Mosquito bite prevention
+
+Prophylactic medications for travelers
+
+43. Spina Bifida
+Prescription:
+
+Folic acid supplements (pre-conception prevention)
+
+Anticholinergics: Oxybutynin (for bladder control)
+
+Recommended Treatment:
+
+Physical therapy
+
+Surgical interventions as needed
+
+44. Kidney Disease (Chronic)
+Prescription:
+
+ACE inhibitors: Lisinopril (for proteinuria)
+
+Erythropoietin-stimulating agents (for anemia)
+
+Phosphate binders (for hyperphosphatemia)
+
+Recommended Treatment:
+
+Low-protein, low-potassium diet
+
+Dialysis in advanced cases
+
+45. Osteoarthritis
+Prescription:
+
+NSAIDs: Celecoxib (Celebrex)
+
+Topical analgesics: Diclofenac gel
+
+Joint injections: Corticosteroids
+
+Recommended Treatment:
+
+Weight management
+
+Low-impact exercise
+
+Physical therapy
+
+46. Klinefelter Syndrome
+Prescription:
+
+Testosterone replacement therapy
+
+Fertility treatments (if desired)
+
+Recommended Treatment:
+
+Speech and physical therapy (if developmental delays)
+
+Psychological support
+
+47. Acne
+Prescription:
+
+Topical retinoids: Tretinoin
+
+Antibiotics: Clindamycin gel
+
+Oral medications: Doxycycline (for moderate-severe cases)
+
+Recommended Treatment:
+
+Gentle skin cleansing
+
+Non-comedogenic products
+
+48. Brain Tumor
+Prescription:
+
+Corticosteroids: Dexamethasone (for edema)
+
+Anticonvulsants: Levetiracetam (for seizures)
+
+Chemotherapy: Temozolomide
+
+Recommended Treatment:
+
+Surgical resection when possible
+
+Radiation therapy
+
+49. Cystic Fibrosis
+Prescription:
+
+CFTR modulators: Ivacaftor (Kalydeco)
+
+Bronchodilators: Albuterol
+
+Pancreatic enzymes: Pancrelipase
+
+Recommended Treatment:
+
+Airway clearance techniques
+
+High-calorie diet
+
+50. Glaucoma
+Prescription:
+
+Prostaglandin analogs: Latanoprost
+
+Beta-blockers: Timolol eye drops
+
+Carbonic anhydrase inhibitors: Dorzolamide
+
+Recommended Treatment:
+
+Regular eye pressure monitoring
+
+Laser/surgical options if progressive
+
+51. Rabies
+Prescription:
+
+Post-exposure prophylaxis: HRIG + rabies vaccine series
+
+Supportive care (once symptomatic)
+
+Recommended Treatment:
+
+Immediate wound cleaning after exposure
+
+Pre-exposure vaccination for high-risk groups
+
+52. Chickenpox
+Prescription:
+
+Antivirals: Acyclovir (for high-risk patients)
+
+Antihistamines: Diphenhydramine (for itching)
+
+Antipyretics: Acetaminophen (no aspirin)
+
+Recommended Treatment:
+
+Calamine lotion
+
+Isolation until lesions crust
+
+53. Coronary Artery Disease
+Prescription:
+
+Statins: Atorvastatin
+
+Beta-blockers: Metoprolol
+
+Antiplatelets: Aspirin + Clopidogrel
+
+Recommended Treatment:
+
+Cardiac rehabilitation
+
+Mediterranean diet
+
+54. Eating Disorders (Anorexia, Bulimia)
+Prescription:
+
+SSRIs: Fluoxetine (for bulimia)
+
+Appetite stimulants (in severe cases)
+
+Recommended Treatment:
+
+Nutritional counseling
+
+Cognitive behavioral therapy
+
+55. Fibromyalgia
+Prescription:
+
+Antidepressants: Duloxetine (Cymbalta)
+
+Anticonvulsants: Pregabalin (Lyrica)
+
+Muscle relaxants: Cyclobenzaprine
+
+Recommended Treatment:
+
+Low-impact exercise
+
+Stress reduction techniques
+
+56. Hemophilia
+Prescription:
+
+Factor VIII/IX replacement
+
+Emicizumab (prophylaxis for Hemophilia A)
+
+Recommended Treatment:
+
+Avoidance of trauma/contact sports
+
+Physical therapy for joint protection
+
+57. Hypoglycemia
+Prescription:
+
+Glucose tablets/gel (for acute episodes)
+
+Diazoxide (for chronic hyperinsulinism)
+
+Recommended Treatment:
+
+Frequent small meals
+
+Continuous glucose monitoring if recurrent
+
+58. Lymphoma
+Prescription:
+
+Chemotherapy: R-CHOP regimen
+
+Immunotherapy: Rituximab
+
+Radiation therapy
+
+Recommended Treatment:
+
+Stem cell transplant in certain cases
+
+Palliative care for advanced disease
+
+59. Tuberculosis
+Prescription:
+
+RIPE therapy: Rifampin, Isoniazid, Pyrazinamide, Ethambutol
+
+Multidrug-resistant TB regimens
+
+Recommended Treatment:
+
+Directly observed therapy (DOT)
+
+Isolation until non-contagious
+
+60. Lung Cancer
+Prescription:
+
+Targeted therapy: Osimertinib (for EGFR mutations)
+
+Immunotherapy: Pembrolizumab
+
+Chemotherapy: Carboplatin/Pemetrexed
+
+Recommended Treatment:
+
+Smoking cessation
+
+Palliative radiation for metastases
+
+61. Hypothyroidism
+Prescription:
+
+Levothyroxine (Synthroid)
+
+Liothyronine (Cytomel) in select cases
+
+Recommended Treatment:
+
+Regular TSH monitoring
+
+Consistent medication timing
+
+62. Autism Spectrum Disorder (ASD)
+Prescription:
+
+Risperidone (for irritability/aggression)
+
+SSRIs (for comorbid anxiety)
+
+Recommended Treatment:
+
+Applied behavior analysis (ABA)
+
+Speech/occupational therapy
+
+63. Crohn's Disease
+Prescription:
+
+Biologics: Infliximab (Remicade)
+
+Immunomodulators: Azathioprine
+
+Steroids: Budesonide (for flares)
+
+Recommended Treatment:
+
+Low-residue diet during flares
+
+Smoking cessation
+
+64. Hyperglycemia
+Prescription:
+
+Insulin therapy (acute management)
+
+Oral agents: Metformin (Type 2 DM)
+
+Recommended Treatment:
+
+Carbohydrate counting
+
+Regular glucose monitoring
+
+65. Melanoma
+Prescription:
+
+Immunotherapy: Nivolumab + Ipilimumab
+
+Targeted therapy: Dabrafenib/Trametinib (BRAF+)
+
+Recommended Treatment:
+
+Surgical excision with wide margins
+
+Sun protection education
+
+66. Ovarian Cancer
+Prescription:
+
+Chemotherapy: Carboplatin/Paclitaxel
+
+PARP inhibitors: Olaparib (maintenance)
+
+Recommended Treatment:
+
+Genetic testing (BRCA)
+
+Debulking surgery
+
+67. Turner Syndrome
+Prescription:
+
+Growth hormone (in childhood)
+
+Estrogen replacement (at puberty)
+
+Recommended Treatment:
+
+Cardiac monitoring
+
+Fertility counseling
+
+68. Zika Virus
+Prescription:
+
+Supportive care only (no specific antiviral)
+
+Recommended Treatment:
+
+Mosquito bite prevention
+
+Pregnancy avoidance in endemic areas
+
+69. Cataracts
+Prescription:
+
+No effective medications
+
+Recommended Treatment:
+
+Surgical removal with IOL implantation
+
+UV-protective sunglasses
+
+70. Pneumocystis Pneumonia (PCP)
+Prescription:
+
+Antibiotics: Trimethoprim-sulfamethoxazole (Bactrim)
+
+Steroids: Prednisone (for hypoxia)
+
+Recommended Treatment:
+
+Prophylaxis for immunocompromised patients
+
+71. Scoliosis
+Prescription:
+
+NSAIDs (for pain management)
+
+Recommended Treatment:
+
+Bracing (for moderate curves)
+
+Spinal fusion surgery (severe cases)
+
+72. Sickle Cell Anemia
+Prescription:
+
+Hydroxyurea (to reduce crises)
+
+Pain management: Opioids during crises
+
+Recommended Treatment:
+
+Hydration
+
+Vaccinations (pneumococcal)
+
+73. Tetanus
+Prescription:
+
+Tetanus immune globulin (TIG)
+
+Muscle relaxants: Diazepam
+
+Recommended Treatment:
+
+Wound debridement
+
+Mechanical ventilation if severe
+
+74. Anemia (Iron Deficiency)
+Prescription:
+
+Iron supplements: Ferrous sulfate
+
+Erythropoietin (in CKD)
+
+Recommended Treatment:
+
+Iron-rich diet
+
+Identify/treat underlying cause
+
+75. Cholera
+Prescription:
+
+Oral rehydration salts (ORS)
+
+Antibiotics: Doxycycline (severe cases)
+
+Recommended Treatment:
+
+Clean water access
+
+Vaccination in endemic areas
+
+76. Endometriosis
+Prescription:
+
+NSAIDs: Ibuprofen
+
+Hormonal therapy: Leuprolide
+
+Recommended Treatment:
+
+Laparoscopic excision
+
+Pelvic physical therapy
+
+77. Sepsis
+Prescription:
+
+Broad-spectrum IV antibiotics
+
+Vasopressors: Norepinephrine
+
+Recommended Treatment:
+
+Early goal-directed therapy
+
+Source control (drainage/debridement)
+
+78. Sleep Apnea
+Prescription:
+
+CPAP/BiPAP therapy
+
+Modafinil (for residual daytime sleepiness)
+
+Recommended Treatment:
+
+Weight loss
+
+Positional therapy
+
+79. Down Syndrome
+Prescription:
+
+Thyroid hormone replacement (if hypothyroid)
+
+Donepezil (for dementia symptoms)
+
+Recommended Treatment:
+
+Early intervention programs
+
+Cardiac screening
+
+80. Ebola Virus
+Prescription:
+
+Supportive care
+
+Investigational antivirals: Remdesivir
+
+Recommended Treatment:
+
+Strict isolation
+
+Fluid/electrolyte management
+
+81. Lyme Disease
+Prescription:
+
+Antibiotics: Doxycycline (early)
+
+IV Ceftriaxone (neurologic involvement)
+
+Recommended Treatment:
+
+Tick bite prevention
+
+Post-treatment monitoring
+
+82. Pancreatic Cancer
+Prescription:
+
+Chemotherapy: FOLFIRINOX
+
+Pain management: Opioids
+
+Recommended Treatment:
+
+Whipple procedure (if resectable)
+
+Palliative care
+
+83. Pneumothorax
+Prescription:
+
+Oxygen therapy
+
+Pain control: Acetaminophen
+
+Recommended Treatment:
+
+Chest tube insertion
+
+Pleurodesis for recurrent cases
+
+84. Appendicitis
+Prescription:
+
+IV antibiotics: Piperacillin-tazobactam
+
+Pain control: Morphine
+
+Recommended Treatment:
+
+Appendectomy
+
+NPO until surgery
+
+85. Esophageal Cancer
+Prescription:
+
+Chemoradiation: Cisplatin/5-FU + radiation
+
+Immunotherapy: Pembrolizumab
+
+Recommended Treatment:
+
+Esophageal stent placement
+
+Nutritional support
+
+86. HIV/AIDS
+Prescription:
+
+ART: Biktarvy (DTG/TAF/FTC)
+
+Prophylaxis: TMP-SMX (for PCP)
+
+Recommended Treatment:
+
+Regular viral load monitoring
+
+Safe sex practices
+
+87. Marfan Syndrome
+Prescription:
+
+Beta-blockers: Atenolol (aortic protection)
+
+ARBs: Losartan
+
+Recommended Treatment:
+
+Annual echocardiograms
+
+Avoid contact sports
+
+88. Parkinson's Disease
+Prescription:
+
+Levodopa/Carbidopa
+
+Dopamine agonists: Pramipexole
+
+Recommended Treatment:
+
+Physical therapy
+
+Deep brain stimulation (advanced cases)
+
+89. Hemorrhoids
+Prescription:
+
+Topical steroids: Hydrocortisone cream
+
+Stool softeners: Docusate
+
+Recommended Treatment:
+
+Sitz baths
+
+High-fiber diet
+
+90. Polycystic Ovary Syndrome (PCOS)
+Prescription:
+
+Metformin (insulin sensitizer)
+
+Anti-androgens: Spironolactone
+
+Recommended Treatment:
+
+Weight management
+
+OCPs for menstrual regulation
+
+91. Systemic Lupus Erythematosus (SLE)
+Prescription:
+
+Hydroxychloroquine (first-line)
+
+Immunosuppressants: Mycophenolate
+
+Recommended Treatment:
+
+Sun protection
+
+Regular renal monitoring
+
+92. Typhoid Fever
+Prescription:
+
+Antibiotics: Ceftriaxone (resistant cases)
+
+Fluoroquinolones: Ciprofloxacin
+
+Recommended Treatment:
+
+Vaccination for travelers
+
+Safe food/water practices
+
+93. Breast Cancer
+Prescription:
+
+Hormonal therapy: Tamoxifen (ER+)
+
+Targeted therapy: Trastuzumab (HER2+)
+
+Recommended Treatment:
+
+Lumpectomy/mastectomy
+
+Radiation therapy
+
+94. Measles
+Prescription:
+
+Vitamin A (to reduce severity)
+
+Supportive care
+
+Recommended Treatment:
+
+MMR vaccination
+
+Isolation until 4 days post-rash onset
+
+95. Osteomyelitis
+Prescription:
+
+IV antibiotics: Vancomycin + Piperacillin
+
+6-week antibiotic course
+
+Recommended Treatment:
+
+Surgical debridement
+
+Wound care
+
+96. Polio
+Prescription:
+
+Supportive care
+
+Pain management
+
+Recommended Treatment:
+
+Vaccination (IPV)
+
+Physical therapy for paralysis
+
+97. Chronic Kidney Disease
+Prescription:
+
+Erythropoietin (for anemia)
+
+Phosphate binders
+
+Recommended Treatment:
+
+Renal diet (low potassium/phosphorus)
+
+Dialysis planning
+
+98. Hepatitis B
+Prescription:
+
+Antivirals: Tenofovir
+
+Interferon (selected cases)
+
+Recommended Treatment:
+
+Vaccination of contacts
+
+Regular LFTs and viral load
+
+99. Prader-Willi Syndrome
+Prescription:
+
+Growth hormone (for stature/muscle)
+
+Appetite suppressants (limited efficacy)
+
+Recommended Treatment:
+
+Strict food security
+
+Behavior therapy
+
+100. Thyroid Cancer
+Prescription:
+
+Thyroid hormone suppression
+
+Radioactive iodine therapy
+
+Recommended Treatment:
+
+Thyroidectomy
+
+Regular thyroglobulin monitoring
+
+101. Bladder Cancer
+Prescription:
+
+BCG immunotherapy
+
+Chemotherapy: Gemcitabine/Cisplatin
+
+Recommended Treatment:
+
+TURBT procedure
+
+Surveillance cystoscopy
+
+102. Otitis Media (Ear Infection)
+Prescription:
+
+Antibiotics: Amoxicillin (if bacterial)
+
+Analgesics: Acetaminophen
+
+Recommended Treatment:
+
+Watchful waiting (uncomplicated cases)
+
+Tympanostomy tubes (recurrent)
+
+103. Tourette Syndrome
+Prescription:
+
+Antipsychotics: Aripiprazole
+
+Alpha-agonists: Guanfacine
+
+Recommended Treatment:
+
+Behavioral therapy
+
+School accommodations
+
+104. Alzheimer's Disease
+Prescription:
+
+Cholinesterase inhibitors: Donepezil
+
+NMDA antagonist: Memantine
+
+Recommended Treatment:
+
+Cognitive stimulation
+
+Safety modifications at home
+
+105. Dementia
+Prescription:
+
+Donepezil (for Alzheimer's type)
+
+Antidepressants (for comorbid depression)
+
+Recommended Treatment:
+
+Routine establishment
+
+Caregiver support
+
+106. Diverticulitis
+Prescription:
+
+Antibiotics: Ciprofloxacin/Metronidazole
+
+Pain control: Acetaminophen
+
+Recommended Treatment:
+
+High-fiber diet (after acute phase)
+
+Colonoscopy after resolution
+
+107. Mumps
+Prescription:
+
+Supportive care
+
+Analgesics/antipyretics
+
+Recommended Treatment:
+
+MMR vaccination
+
+Isolation for 5 days post-parotitis
+
+108. Cholecystitis
+Prescription:
+
+Antibiotics: Piperacillin-tazobactam
+
+Pain control: Morphine
+
+Recommended Treatment:
+
+Cholecystectomy
+
+NPO until surgery
+
+109. Prostate Cancer
+Prescription:
+
+ADT: Leuprolide
+
+Anti-androgens: Enzalutamide
+
+Recommended Treatment:
+
+Active surveillance (low-risk)
+
+Radiation therapy
+
+110. Schizophrenia
+Prescription:
+
+Antipsychotics: Risperidone
+
+Long-acting injectables: Paliperidone
+
+Recommended Treatment:
+
+Psychosocial therapy
+
+Supported employment
+
+111. Gout
+Prescription:
+
+Acute: Colchicine/NSAIDs
+
+Chronic: Allopurinol/Febuxostat
+
+Recommended Treatment:
+
+Low-purine diet
+
+Hydration
+
+112. Testicular Cancer
+Prescription:
+
+Chemotherapy: BEP regimen
+
+Radiation (for seminoma)
+
+Recommended Treatment:
+
+Orchiectomy
+
+Tumor marker monitoring
+
+113. Tonsillitis
+Prescription:
+
+Antibiotics: Penicillin (if bacterial)
+
+Analgesics: Acetaminophen
+
+Recommended Treatment:
+
+Tonsillectomy (recurrent cases)
+
+Saltwater gargles
+
+114. Williams Syndrome
+Prescription:
+
+Calcium channel blockers (for SVAS)
+
+Behavioral medications as needed
+
+Recommended Treatment:
+
+Cardiac monitoring
+
+Developmental therapies

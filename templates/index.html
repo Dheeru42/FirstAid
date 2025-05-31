@@ -335,6 +335,18 @@
         .emergency-section .section-title::after {
             background-color: var(--accent);
         }
+        .search-bar {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .search-bar input {
+            width: 100%;
+            max-width: 500px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
 
         .hospital-list {
             display: grid;
@@ -538,12 +550,122 @@
                             <label for="die">Diseases</label>
                             <select id="die" name="die" required>
                                 <option>Select Diseases For Diagnose</option>
+                                <option>Influenza</option>
                                 <option>Common Cold</option>
+                                <option>Eczema</option>
                                 <option>Asthma</option>
-                                <option>Stroke</option>
+                                <option>Hyperthyroidism</option>
+                                <option>Allergic Rhinitis</option>
+                                <option>Anxiety Disorders</option>
+                                <option>Diabetes</option>
+                                <option>Gastroenteritis</option>
+                                <option>Pancreatitis</option>
+                                <option>Rheumatoid Arthritis</option>
                                 <option>Depression</option>
                                 <option>Liver Cancer</option>
-                                <option>Enfluenza</option>
+                                <option>Stroke</option>
+                                <option>Urinary Tract Infection</option>
+                                <option>Dengue Fever</option>
+                                <option>Hepatitis</option>
+                                <option>Kidney Cancer</option>
+                                <option>Migraine</option>
+                                <option>Muscular Dystrophy</option>
+                                <option>Sinusitis</option>
+                                <option>Ulcerative Colitis</option>
+                                <option>Bipolar Disorder</option>
+                                <option>Bronchitis</option>
+                                <option>Cerebral Palsy</option>
+                                <option>Colorectal Cancer</option>
+                                <option>Hypertensive Heart Disease</option>
+                                <option>Multiple Sclerosis</option>
+                                <option>Myocardial Infarction (Heart...)</option>
+                                <option>Urinary Tract Infection (UTI)</option>
+                                <option>Osteoporosis</option>
+                                <option>Pneumonia</option>
+                                <option>Atherosclerosis</option>
+                                <option>Chronic Obstructive Pulmonary...</option>
+                                <option>Epilepsy</option>
+                                <option>Hypertension</option>
+                                <option>Obsessive-Compulsive Disorde...</option>
+                                <option>Psoriasis</option>
+                                <option>Rubella</option>
+                                <option>Cirrhosis</option>
+                                <option>Conjunctivitis (Pink Eye)</option>
+                                <option>Liver Disease</option>
+                                <option>Malaria</option>
+                                <option>Spina Bifida</option>
+                                <option>Kidney Disease</option>
+                                <option>Osteoarthritis</option>
+                                <option>Klinefelter Syndrome</option>
+                                <option>Acne</option>
+                                <option>Brain Tumor</option>
+                                <option>Cystic Fibrosis</option>
+                                <option>Glaucoma</option>
+                                <option>Rabies</option>
+                                <option>Chickenpox</option>
+                                <option>Coronary Artery Disease</option>
+                                <option>Eating Disorders (Anorexia,...)</option>
+                                <option>Fibromyalgia</option>
+                                <option>Hemophilia</option>
+                                <option>Hypoglycemia</option>
+                                <option>Lymphoma</option>
+                                <option>Tuberculosis</option>
+                                <option>Lung Cancer</option>
+                                <option>Hypothyroidism</option>
+                                <option>Autism Spectrum Disorder (ASD)</option>
+                                <option>Crohn's Disease</option>
+                                <option>Hyperglycemia</option>
+                                <option>Melanoma</option>
+                                <option>Ovarian Cancer</option>
+                                <option>Turner Syndrome</option>
+                                <option>Zika Virus</option>
+                                <option>Cataracts</option>
+                                <option>Pneumocystis Pneumonia (PCP)</option>
+                                <option>Scoliosis</option>
+                                <option>Sickle Cell Anemia</option>
+                                <option>Tetanus</option>
+                                <option>Anemia</option>
+                                <option>Cholera</option>
+                                <option>Endometriosis</option>
+                                <option>Sepsis</option>
+                                <option>Sleep Apnea</option>
+                                <option>Down Syndrome</option>
+                                <option>Ebola Virus</option>
+                                <option>Lyme Disease</option>
+                                <option>Pancreatic Cancer</option>
+                                <option>Pneumothorax</option>
+                                <option>Appendicitis</option>
+                                <option>Esophageal Cancer</option>
+                                <option>HIV/AIDS</option>
+                                <option>Marfan Syndrome</option>
+                                <option>Parkinson's Disease</option>
+                                <option>Hemorrhoids</option>
+                                <option>Polycystic Ovary Syndrome (PCOS)</option>
+                                <option>Systemic Lupus Erythematosus...</option>
+                                <option>Typhoid Fever</option>
+                                <option>Breast Cancer</option>
+                                <option>Measles</option>
+                                <option>Osteomyelitis</option>
+                                <option>Polio</option>
+                                <option>Chronic Kidney Disease</option>
+                                <option>Hepatitis B</option>
+                                <option>Prader-Willi Syndrome</option>
+                                <option>Thyroid Cancer</option>
+                                <option>Bladder Cancer</option>
+                                <option>Otitis Media (Ear Infection)</option>
+                                <option>Tourette Syndrome</option>
+                                <option>Alzheimer's Disease</option>
+                                <option>Chronic Obstructive Pulmonary Disease (COPD)</option>
+                                <option>Dementia</option>
+                                <option>Diverticulitis</option>
+                                <option>Mumps</option>
+                                <option>Cholecystitis</option>
+                                <option>Prostate Cancer</option>
+                                <option>Schizophrenia</option>
+                                <option>Gout</option>
+                                <option>Testicular Cancer</option>
+                                <option>Tonsillitis</option>
+                                <option>Williams Syndrome</option>
                             </select>
                         </div>
                         <div class="form-group">
@@ -688,7 +810,6 @@
                         <div id="diagnosisResult">
                             <!-- This will be filled by JavaScript -->
                         </div>
-
                         <div class="prescription" id="prescriptionContainer" style="display: none;">
                             <h4>Recommended Treatment</h4>
                             <div id="prescriptionContent">
@@ -712,6 +833,11 @@
                 <div class="section-title">
                     <h2>Emergency Hospitals Near You</h2>
                     <p>Find the nearest emergency care facilities</p>
+                </div>
+                 <!-- Search Bar -->
+                 <div style="text-align: center; margin-bottom: 20px;">
+                    <input type="text" id="hospitalSearch" placeholder="Search hospitals or city..." style="padding: 10px; width: 300px;">
+                    <button onclick="searchHospitals()" class="btn btn-primary" style="padding: 10px;">Search</button>
                 </div>
 
                 <div class="hospital-list" id="hospitalList">
@@ -747,9 +873,9 @@
                 <div class="footer-column">
                     <h3>Services</h3>
                     <ul>
-                        <li><a href="#">Symptom Checker</a></li>
+                        <li><a href="#diagnosis">Symptom Checker</a></li>
                         <li><a href="#">Medicine Information</a></li>
-                        <li><a href="#">Hospital Locator</a></li>
+                        <li><a href="#emergency">Hospital Locator</a></li>
                         <li><a href="#">First Aid Guides</a></li>
                     </ul>
                 </div>
@@ -781,12 +907,12 @@
             const hospitalList = document.getElementById('hospitalList');
         
             // Hospital data
-            const hospitals = [
+            {% comment %} const hospitals = [
                 { name: "City General Hospital", address: "123 Health St, Medical City", phone: "(555) 123-4567", distance: "1.2 miles", emergency: "24/7 Emergency Department" },
                 { name: "Community Medical Center", address: "456 Care Ave, Health Town", phone: "(555) 987-6543", distance: "2.5 miles", emergency: "24/7 Emergency Services" },
                 { name: "Urgent Care Clinic", address: "789 Wellness Blvd, Care City", phone: "(555) 456-7890", distance: "0.8 miles", emergency: "Open until 10pm" },
                 { name: "Children's Hospital", address: "101 Pediatric Lane, Kidsville", phone: "(555) 111-2222", distance: "3.1 miles", emergency: "Pediatric Emergency 24/7" }
-            ];
+            ]; {% endcomment %}
         
             // Load hospitals dynamically
             function loadHospitals() {
@@ -856,13 +982,16 @@
                                     <ul>${data.prescription.medications.map(m => `<li>${m}</li>`).join('')}</ul>
                                     <h5>Recommendations:</h5>
                                     <ul>${data.prescription.recommendations.map(r => `<li>${r}</li>`).join('')}</ul>
+                                    <h5>Note:</h5>
+                                    <p>${data.prescription.note}</p>
+                                    <h5>Advise:</h5>
+                                    <p>${data.prescription.advise}</p>
                                     <h5 style="color: var(--danger);">Warning:</h5>
                                     <p>${data.prescription.warning}</p>
                                 `;
                             }, 4000); // Adjust to match animation duration
                         };
                     }
-        
                     // Scroll to results section
                     resultContainer.scrollIntoView({ behavior: 'smooth' });
                 });
@@ -871,7 +1000,34 @@
             // Load hospital information when the page loads
             loadHospitals();
         });
+        function searchHospitals() {
+            const query = document.getElementById('hospitalSearch').value;
         
+            fetch(`/search/?query=${encodeURIComponent(query)}`)
+            .then(response => response.json())
+            .then(data => {
+                const hospitalList = document.getElementById('hospitalList');
+                hospitalList.innerHTML = '';
+        
+                if (data.length === 0) {
+                    hospitalList.innerHTML = '<p>No hospitals found.</p>';
+                    return;
+                }
+        
+                data.forEach(hospital => {
+                    const card = document.createElement('div');
+                    card.className = 'hospital-card';
+                    card.innerHTML = `
+                        <h3>${hospital.name}</h3>
+                        <p><i class="fas fa-map-marker-alt"></i> ${hospital.address}, ${hospital.city}</p>
+                        <p><i class="fas fa-phone"></i> ${hospital.phone}</p>
+                        <p><i class="fas fa-location-arrow"></i> ${hospital.state} - ${hospital.pincode}</p>
+                        <a href="tel:${hospital.phone}" class="call-btn"><i class="fas fa-phone"></i> Call Now</a>
+                    `;
+                    hospitalList.appendChild(card);
+                });
+            });
+        }
 </script>
 
 </body>
